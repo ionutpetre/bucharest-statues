@@ -1,0 +1,37 @@
+{
+  "name": "bucharest-statues",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "4.x"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cache-control": "^1.0.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  },
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionutpetre/bucharest-statues.git"
+  },
+  "keywords": [
+    "node",
+    "angular",
+    "material"
+  ],
+  "author": "ionutpetre.ro@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ionutpetre/bucharest-statues/issues"
+  },
+  "homepage": "https://github.com/ionutpetre/bucharest-statues#readme"
+}

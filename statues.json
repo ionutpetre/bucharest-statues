@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Statue 1",
+        "description": "Lorem ipsum"
+    },
+    {
+        "id": 2,
+        "name": "Statue 2",
+        "description": "Lorem ipsum"
+    }
+]
