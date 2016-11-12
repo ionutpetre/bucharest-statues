@@ -1,0 +1,7 @@
+@import 'statues.css';
+@import 'statue.css';
+@import 'statue-card.css';
+
+body {
+    background-color: #03A9F4; 
+}
