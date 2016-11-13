@@ -1,21 +1,35 @@
 #statues {
-    background-color: #03A9F4;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-between;
 }
 
-.statues-header {
-	display:flex;
+#statues .statues-header {
+    height: 50px;
+    margin-top: 20px;
+    border-top: 1px solid #e7e7e7;
+	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
 }
 
-.search-input {
-	flex-basis:20%;
+#statues .statues-header .search-input {
+	flex-basis: 30%;
+    overflow: hidden;
 }
 
-.tabs {
-	flex-basis:80%;
+#statues .statues-header .search-input md-input-container {
+    padding-top: 1px;
+    margin-left: 20px;
 }
+
+#statues .statues-header .tabs {
+	flex-basis: 70%;
+}
+
+#statues .statues-container {
+	flex-basis: 30%;
+}
+
+#statues .statues-footer {}

@@ -2,7 +2,7 @@
     <div class="statues-header">
         <md-content class="search-input">
             <md-input-container class="md-block" flex-gt-sm>
-                    <label>Search statue</label>
+                    <label>Cauta statuie dupa cuvant cheie</label>
                     <input ng-model="search">
                     <ng-md-icon icon="search"></ng-md-icon>
             </md-input-container> 
@@ -15,7 +15,7 @@
         </md-content>
     </div>
     <div class="statues-container">
-        <md-content id="statues" layout-padding>
+        <md-content layout-padding>
             <div ng-repeat="statue in statues | filter:search"
                  ui-sref="statue({id: statue.id})"
                  md-colspan-gt-sm="3" md-rowspan-gt-sm="3">
