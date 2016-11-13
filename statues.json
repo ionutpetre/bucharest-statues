@@ -8,5 +8,20 @@
         "id": 2,
         "name": "Statue 2",
         "description": "Lorem ipsum"
+    },
+    {
+        "id": 3,
+        "name": "Statue 3",
+        "description": "Lorem ipsum"
+    },
+    {
+        "id": 4,
+        "name": "Statue 4",
+        "description": "Lorem ipsum"
+    },
+    {
+        "id": 5,
+        "name": "Statue 5",
+        "description": "Lorem ipsum"
     }
 ]

@@ -1,3 +1,21 @@
 #statues {
     background-color: #03A9F4;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.statues-header {
+	display:flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.search-input {
+	flex-basis:20%;
+}
+
+.tabs {
+	flex-basis:80%;
 }
