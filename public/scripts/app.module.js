@@ -1,1 +1,1 @@
-angular.module('StatuesApp', ['ui.router', 'ngMaterial']);
+angular.module('StatuesApp', ['ui.router', 'ngMaterial', 'ngCookies']);

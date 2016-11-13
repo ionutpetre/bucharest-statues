@@ -5,7 +5,7 @@ angular.module('StatuesApp').config(['$stateProvider', '$urlRouterProvider', fun
         templateUrl: 'views/statues.html',
         resolve: {
             statues: ['$statues', function($statues) {
-                return $statues.getAll();
+                return $statues.getAllStatues();
             }]
         }
     }).state('statue', {
@@ -14,7 +14,7 @@ angular.module('StatuesApp').config(['$stateProvider', '$urlRouterProvider', fun
         templateUrl: 'views/statue.html',
         resolve: {
             statue: ['$stateParams', '$statue', function($stateParams, $statue) {
-                return $statue.getById($stateParams.id);
+                return $statue.getStatueById($stateParams.id);
             }]
         }
     });

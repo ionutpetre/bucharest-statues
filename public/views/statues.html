@@ -1,4 +1,4 @@
-<div id="statues" ng-show="continue">
+<div id="statues">
     <div class="statues-header">
         <md-content class="search-input">
             <md-input-container class="md-block" flex-gt-sm>
@@ -9,7 +9,7 @@
         </md-content>
         <md-content class="tabs">
             <md-tabs md-dynamic-height md-border-bottom> 
-                <md-tab label="{{tab.tabName}}" ng-repeat="tab in tabs">
+                <md-tab label="{{tab.name}}" ng-repeat="tab in tabs">
                 </md-tab>
             </md-tabs>
         </md-content>

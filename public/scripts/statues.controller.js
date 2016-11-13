@@ -1,41 +1,25 @@
-angular.module('StatuesApp').controller('StatuesController', ['$scope', 'statues','$mdSidenav','$timeout', '$mdDialog',
-    function($scope, statues, $mdSidenav, $timeout, $mdDialog) {
+angular.module('StatuesApp').controller('StatuesController', ['$scope', 'statues', 'DIALOG', 'TABS', '$mdSidenav', '$mdDialog', '$cookies',
+    function($scope, statues, DIALOG, TABS, $mdSidenav, $mdDialog, $cookies) {
+        $scope.statues = statues.data;
+        $scope.tabs = TABS;
+        showConfirm();
 
-    $scope.statues = statues.data;
-    $scope.cotinue = false;
-    $scope.tabs    = [
-        {
-            "tabId": 1,
-            "tabName": "Toate statuile"
-
-        }, 
-        {
-            "tabId": 2,
-            "tabName": "Statui in ordine alfabetica"
-        },
-        {
-            "tabId": 3,
-            "tabName": "Statui dupa profile"
+        function getExpireDate() {
+            var expireDate = new Date();
+            expireDate.setMinutes(expireDate.getMinutes() + 1);
+            return expireDate;
         }
-    ];
 
-
-    function showConfirm(ev) {
-    // Appending dialog to document.body to cover sidenav in docs app
-    var confirm = $mdDialog.confirm()
-          .title('Aplicatia STATUI IN BUCURESTI este realizata  in anul' +
-            ' universitar 2016-2017 de catre studentii de la masterul de IE Facultatea CSIE din ASE.')
-          .textContent('')
-          .ariaLabel('Lucky day')
-          .targetEvent(ev)
-          .ok('Continuare');
-
-    $mdDialog.show(confirm).then(function() {
-      $scope.continue = true;
-    }, function() {
-      //
-    });
-  };
-
-      showConfirm();  
-}]);
+        function showConfirm(evt) {
+            if (!$cookies.get('userEntered')) {
+                var confirm = $mdDialog.confirm()
+                    .title(DIALOG.TITLE)
+                    .textContent(DIALOG.CONTENT)
+                    .targetEvent(evt).ok(DIALOG.OK_BTN);
+                $mdDialog.show(confirm).then(function() {
+                    $cookies.put('userEntered', true, { 'expires': getExpireDate() });
+                });
+            }
+        }
+    }
+]);
