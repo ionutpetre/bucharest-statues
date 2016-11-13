@@ -1,27 +1,32 @@
 [
     {
         "id": 1,
-        "name": "Statue 1",
-        "description": "Lorem ipsum"
+        "name": "x Statue 1",
+        "description": "Lorem ipsum",
+        "category": "Scriitori"
     },
     {
         "id": 2,
-        "name": "Statue 2",
-        "description": "Lorem ipsum"
+        "name": "g Statue 2",
+        "description": "Lorem ipsum",
+        "category": "Actori"
     },
     {
         "id": 3,
-        "name": "Statue 3",
-        "description": "Lorem ipsum"
+        "name": "h Statue 3",
+        "description": "Lorem ipsum",
+        "category": "Domnitori"
     },
     {
         "id": 4,
-        "name": "Statue 4",
-        "description": "Lorem ipsum"
+        "name": "a Statue 4",
+        "description": "Lorem ipsum",
+        "category": "Ostasi"
     },
     {
         "id": 5,
-        "name": "Statue 5",
-        "description": "Lorem ipsum"
+        "name": "i Statue 5",
+        "description": "Lorem ipsum",
+        "category": "Savanti"
     }
 ]

@@ -1,30 +1,32 @@
 <div id="statues">
-    <div class="statues-header">
+    <div class="statues-header" ng-class="filters[2].selected ? 'big' : 'small'">
         <md-content class="search-input">
             <md-input-container class="md-block" flex-gt-sm>
-                    <label>Cauta statuie dupa cuvant cheie</label>
-                    <input ng-model="search">
-                    <ng-md-icon icon="search"></ng-md-icon>
-            </md-input-container> 
+                <label>Cauta statuie dupa cuvant cheie</label>
+                <input ng-model="search.$">
+                <ng-md-icon icon="search"></ng-md-icon>
+            </md-input-container>
         </md-content>
         <md-content class="tabs">
-            <md-tabs md-dynamic-height md-border-bottom> 
-                <md-tab label="{{tab.name}}" ng-repeat="tab in tabs">
+            <md-tabs md-dynamic-height md-border-bottom>
+                <md-tab label="{{filter.name}}" ng-repeat="filter in filters track by $index" md-on-select="setSelectedFilters($index)">
+                    <md-input-container ng-show="filters[2].selected">
+                        <md-select ng-model="search.category" placeholder="Alege o categorie">
+                            <md-option ng-value="category" ng-repeat="category in categories">{{category}}</md-option>
+                        </md-select>
+                    </md-input-container>
                 </md-tab>
             </md-tabs>
         </md-content>
     </div>
     <div class="statues-container">
         <md-content layout-padding>
-            <div ng-repeat="statue in statues | filter:search"
-                 ui-sref="statue({id: statue.id})"
-                 md-colspan-gt-sm="3" md-rowspan-gt-sm="3">
+            <div ng-repeat="statue in statues | filter:search:strict | orderBy:orderBy" ui-sref="statue({id: statue.id})" md-colspan-gt-sm="3" md-rowspan-gt-sm="3">
                 <statue-card statue="statue"></statue-card>
             </div>
         </md-content>
     </div>
     <div class="statues-footer">
-        
+
     </div>
 </div>
-

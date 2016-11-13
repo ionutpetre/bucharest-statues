@@ -6,12 +6,19 @@
 }
 
 #statues .statues-header {
-    height: 50px;
     margin-top: 20px;
     border-top: 1px solid #e7e7e7;
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
+}
+
+#statues .statues-header.small {
+    height: 50px;
+}
+
+#statues .statues-header.big {
+    height: 100px;
 }
 
 #statues .statues-header .search-input {
