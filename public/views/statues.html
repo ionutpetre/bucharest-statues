@@ -19,22 +19,11 @@
             </md-tabs>
         </md-content>
     </div>
-    <!--<div class="statues-container">-->
-        <!--<md-content layout-padding>-->
-            <!--<md-grid-list md-cols-gt-md="12" md-cols-sm="3" md-cols-md="8" md-row-height-gt-md="1:1" md-row-height="4:3" md-gutter-gt-md="16px" md-gutter-gt-sm="8px" md-gutter="4px">-->
-                <!--<md-grid-tile ng-repeat="statue in statues | filter:search:strict | orderBy:orderBy" ui-sref="statue({id: statue.id})" md-rowspan-gt-sm="3"-->
-                    <!--md-colspan-gt-sm="4">-->
-                    <!--<statue-card statue="statue"></statue-card>-->
-                <!--</md-grid-tile>-->
-            <!--</md-grid-list>-->
-        <!--</md-content>-->
-    <!--</div>-->
-    <div class="md-padding" layout="row" layout-wrap>
+    <div class="md-padding statues-container" layout="row" layout-wrap>
         <md-card ng-repeat="statue in statues | filter:search:strict | orderBy:orderBy" ui-sref="statue({id: statue.id})">
             <statue-card statue="statue"></statue-card>
         </md-card>
     </div>
     <div class="statues-footer">
-
     </div>
 </div>

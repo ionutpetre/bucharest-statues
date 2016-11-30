@@ -1,9 +1,8 @@
 #statues {
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
-    justify-content: space-between;
 }
+
 
 #statues .statues-header {
     margin-top: 20px;
@@ -11,6 +10,16 @@
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    width: 100%;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    -webkit-flex-flow: row wrap;
 }
 
 #statues .statues-header.small {
@@ -36,6 +45,7 @@
 }
 
 #statues .statues-container {
+    margin-top: 50px;
 	flex-basis: 30%;
 }
 
