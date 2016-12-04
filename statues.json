@@ -1,87 +1,14 @@
 [
     {
         "id": 1,
-        "name": "x Statue 1",
-        "artist": "John Doe",
-        "details": "Lorem ipsum1",
-        "otherDetails": "Lorem ipsum2",
-        "category": "Scriitori",
-        "material": "Marmura",
-        "address": "Str. X Nr. Y Z",
-        "date": "1970-01-01",
-        "image": {
-            "front": "",
-            "left": "",
-            "right": "",
-            "back": ""
-        }
-    },
-    {
-        "id": 2,
-        "name": "g Statue 2",
-        "artist": "John Doe",
-        "details": "Lorem ipsum1",
-        "otherDetails": "Lorem ipsum2",
-        "category": "Actori",
-        "material": "Marmura",
-        "address": "Str. X Nr. Y Z",
-        "date": "1970-01-01",
-        "image": {
-            "front": "",
-            "left": "",
-            "right": "",
-            "back": ""
-        }
-    },
-    {
-        "id": 3,
-        "name": "h Statue 3",
-        "artist": "John Doe",
-        "details": "Lorem ipsum1",
-        "otherDetails": "Lorem ipsum2",
-        "category": "Domnitori",
-        "material": "Marmura",
-        "address": "Str. X Nr. Y Z",
-        "date": "1970-01-01",
-        "image": {
-            "front": "",
-            "left": "",
-            "right": "",
-            "back": ""
-        }
-    },
-    {
-        "id": 4,
-        "name": "a Statue 4",
-        "artist": "John Doe",
-        "details": "Lorem ipsum1",
-        "otherDetails": "Lorem ipsum2",
-        "category": "Ostasi",
-        "material": "Marmura",
-        "address": "Str. X Nr. Y Z",
-        "date": "1970-01-01",
-        "image": {
-            "front": "",
-            "left": "",
-            "right": "",
-            "back": ""
-        }
-    },
-    {
-        "id": 5,
-        "name": "i Statue 5",
-        "artist": "John Doe",
-        "details": "Lorem ipsum1",
-        "otherDetails": "Lorem ipsum2",
-        "category": "Savanti",
-        "material": "Marmura",
-        "address": "Str. X Nr. Y Z",
-        "date": "1970-01-01",
-        "image": {
-            "front": "",
-            "left": "",
-            "right": "",
-            "back": ""
-        }
+        "name": "Caragealiana",
+        "artist": "Ioan Bolbolea",
+        "details": "",
+        "otherDetails": "",
+        "category": "Personaje",
+        "material": "Bronz",
+        "address": "Piata Universitatii (pe platforma hotelului Intercontinental, in fata TNB)",
+        "date": "2010-12-19",
+        "contributor": "Bianca Denes"
     }
 ]
