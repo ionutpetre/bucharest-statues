@@ -1,7 +1,10 @@
 <md-content id="statue" flex layout-padding ng-cloak>
     <h1 class="md-title">{{statue.name}}</h1>
-    <p>{{statue.description}}</p>
-    <img ng-src="https://unsplash.it/300" alt="{{statue.name}}">
+    <p ng-if="statue.description.length">{{statue.description}}</p>
+	<img ng-src="images/statues/statue_{{statue.id}}/front.jpg" alt="{{statue.name}}">
+	<img ng-src="images/statues/statue_{{statue.id}}/left.jpg" alt="{{statue.name}}">
+	<img ng-src="images/statues/statue_{{statue.id}}/right.jpg" alt="{{statue.name}}">
+	<img ng-src="images/statues/statue_{{statue.id}}/back.jpg" alt="{{statue.name}}">
     <md-button ui-sref="statues">
         REVENIRE
     </md-button>
