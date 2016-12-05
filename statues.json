@@ -10,5 +10,31 @@
         "address": "Piata Universitatii (pe platforma hotelului Intercontinental, in fata TNB)",
         "date": "2010-12-19",
         "contributor": "Bianca Denes"
+    },
+    {
+        "id": 2,
+        "lmi": "B-III-m-B-19956",
+        "name": "Bustul lui Nicolae Titulescu",
+        "artist": "Ion Irimescu",
+        "details": "Aniversarea a 100 de ani de la nasterea marelui diplomat.",
+        "otherDetails": "Realizata din marmura si asezata pe un soclu din beton placat cu marmura, a fost dezvelita in anul 1982.",
+        "category": "Politicieni",
+        "material": "Marmura",
+        "address": "La intersectia Sos. Nicolae Titulescu cu Bulevardul Banu Manta, Sector 1",
+        "date": "1982-01-01",
+        "contributor": "Deleanu Andrei"
+    },
+    {
+        "id": 3,
+        "lmi": "B-III-m-B-19954",
+        "name": "Bustul lui Nicolae Iorga",
+        "artist": "Ion Irimescu",
+        "details": "Aniversarea a 105 ani de la nasterea marelui istoric si cu ocazia implinirii a 40 de ani de la infiintarea Institutul de Istorie „Nicolae Iorga”.",
+        "otherDetails": "Realizata din bronz si asezata pe un soclu de piatra, bustul fiind dezvelit in anul 1976.",
+        "category": "Istorici",
+        "material": "Bronz",
+        "address": "Str. Bulevardul Aviatorilor Nr. 1,  in fata Institutului de Istorie „Nicolae Iorga”, Sector 1",
+        "date": "1976-01-01",
+        "contributor": "Deleanu Andrei"
     }
 ]
