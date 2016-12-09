@@ -17,4 +17,4 @@ angular.module('StatuesApp')
         "name": "Statui dupa categorie",
         "selected": false
     }])
-    .constant("CATEGORIES", ['Scriitori', 'Actori', 'Domnitori', 'Ostasi', 'Savanti']);
+    .constant("CATEGORIES", ['Personaje', 'Politicieni', 'Istorici', 'Pedagogi', 'Scriitori/Preoti']);

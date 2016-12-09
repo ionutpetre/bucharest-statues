@@ -1,7 +1,7 @@
 <md-card-title>
 	<md-card-title-text>
 		<span class="md-headline">{{statue.name}}</span>
-		<span class="md-subhead">{{statue.details}}</span>
+		<span class="md-subhead">{{statue.details | limitTo:STATUE_DETAILS_LIMIT}}{{ statue.details.length > STATUE_DETAILS_LIMIT ? '...' : ''}}</span>
 	</md-card-title-text>
 	<md-card-title-media>
 		<img class="md-media-lg card-media" ng-src="images/statues/statue_{{statue.id}}/front.jpg" alt="{{statue.name}}">
@@ -9,5 +9,5 @@
 </md-card-title>
 <md-card-actions layout="row" layout-align="space-between centers">
 	<span class="md-headline">{{statue.category}}</span>
-	<md-button>Deschide</md-button>
+	<md-button ui-sref="statue({id: statue.id})">Deschide</md-button>
 </md-card-actions>
