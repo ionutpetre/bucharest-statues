@@ -36,5 +36,31 @@
         "address": "Str. Bulevardul Aviatorilor Nr. 1,  in fata Institutului de Istorie „Nicolae Iorga”, Sector 1",
         "date": "1976-01-01",
         "contributor": "Deleanu Andrei"
+    },
+    {
+        "id": 4,
+        "lmi": "B-III-m-A-20059",
+        "name": "Statuia lui Gheorghe Lazar",
+        "artist": "Ion Georgescu",
+        "details": "Statuia, care îl reprezintă pe Gheorghe Lazăr în picioare, în vestimentație românească de inspirație orientală, specifică epocii în care a trăit, cu o pelerină pe umeri și ținând o carte deschisă în mâini, a fost executată de Ion Georgescu din marmură și a fost dezvelită la 11 mai 1886.",
+        "otherDetails": "Statuia este ridicată exact pe locul unde se afla anterior Școala superioară de la mănăstirea Sfântul Sava, înființată de Gheorghe Lazăr. Mănăstirea a fost dărâmată de edilii capitalei din dorința de moderniza orașul, prin străzi largi și drepte. În septembrie 2010, statuia lui Gheorghe Lazăr a fost mutată în Parcul Izvor, de lângă Palatul Parlamentului din București. Tot aici au fost mutate și celelalte trei statui de la Universitate, pentru a se putea realiza o parcare subterană în centrul Capitalei. După terminarea lucrărilor la parcarea subterană, statuia a fost reamplasată pe locul ei, la 5 mai 2012.",
+        "category": "Pedagogi",
+        "material": "Marmura",
+        "address": "Piata Universitatii, Sector 3",
+        "date": "1886-05-11",
+        "contributor": "Andreea Ghica"
+    },
+    {
+        "id": 5,
+        "lmi": "B-III-m-B-19389",
+        "name": "Statuia lui Vladimir Ghika",
+        "artist": "Gheorghe D. Anghel",
+        "details": "Statuia monseniorului Vladimir Ghika a fost modelată în ghips în 1939 de sculptorul Gheorghe D. Anghel (1904-1966), la vârsta de 35 de ani, după întoarcerea sa de la studii la Paris, unde l-a cunoscut pe monsenior și a fost sprijinit material de acesta. Originalul în ipsos al statuii se află astăzi la Biserica Romano-Catolică Preasfânta Inimă a lui Isus (cunoscută și ca Biserica Franceză Sacré Coeur) din București din apropierea aceleiași piețe.",
+        "otherDetails": "Statuia în ipsos a Monseniorului Ghika, aflată acum în incinta Bisericii Franceze s-a aflat până în 1998 în proprietatea arhitectului Anghel Marcu, căruia îi fusese dăruită de sculptor, în semn de prietenie. După decesul arhitectului Anghel Marcu, conform dispozițiilor sale testamentare, statuia a fost trimisă parohiei Sacré Coeur, ca un semn de considerație pentru biserica în care Monseniorul Ghika a slujit ca preot. Ulterior statuia a fost transpusă în bronz. În anii regimului comunist, varianta în bronz a fost expusă în una din sălile Muzeului Național de Artă al României, din București, sub numele de Cărturarul. Statuia a fost botezată astfel în mod inspirat, însă nu de autorul ei, pentru a putea fi expusă în Muzeul Național, deoarece în timpul regimului comunist trebuia ascuns faptul că îl înfățișează pe Monseniorul Ghika.",
+        "category": "Scriitori/Preoti",
+        "material": "Bronz",
+        "address": "Piața Monseniorul Vladimir Ghika, aflată în Sectorul 1, la intersecția străzilor Gheorghe Demetriade și Emil Pangratti",
+        "date": "1938-01-01",
+        "contributor": "Andreea Ghica"
     }
 ]
