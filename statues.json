@@ -62,5 +62,31 @@
         "address": "Piața Monseniorul Vladimir Ghika, aflată în Sectorul 1, la intersecția străzilor Gheorghe Demetriade și Emil Pangratti",
         "date": "1938-01-01",
         "contributor": "Andreea Ghica"
+    },
+    {
+        "id": 6,
+        "lmi": "B-III-m-A-13870",
+        "name": "Ion I. C. Brătianu",
+        "artist": "Ivan Meštrović",
+        "details": "Statuia a fost ridicată la inițiativa soției marelui om politic român,Eliza fiind dezvelită la 24 noiembrie 1938, într-un cadru festiv",
+        "otherDetails": "Monumentul a fost realizat dintr-un monolit de granit gri-închis de Jablanica și este așezat pe un soclu de beton armat placat cu marmură neagră",
+        "category": "Politicieni",
+        "material": "Granit",
+        "address": "Bulevardul Dacia nr. 33",
+        "date": "1938-11-24",
+        "contributor": "Adrian Istrate"
+    },
+    {
+        "id": 7,
+        "lmi": "B-III-m-B-19998",
+        "name": "George Enescu",
+        "artist": "Ion Jalea",
+        "details": "Statuia, așezată pe un soclu de marmură de mică înălțime, mai degrabă o treaptă, îl înfățișează pe muzicianul George Enescu, stând într-un fotoliu, într-o atitudine meditativă.",
+        "otherDetails": "",
+        "category": "Muzicieni",
+        "material": "Bronz",
+        "address": "Bulevardul Mihail Kogălniceanu nr. 50",
+        "date": "1971-09-29",
+        "contributor": "Adrian Istrate"
     }
 ]
