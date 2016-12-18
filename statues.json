@@ -88,5 +88,18 @@
         "address": "Bulevardul Mihail Kogălniceanu nr. 50",
         "date": "1971-09-29",
         "contributor": "Adrian Istrate"
+    },
+    {
+        "id": 8,
+        "lmi": "B-III-m-B-20046",
+        "name": "Bustul lui Traian Demetrescu",
+        "artist": "Filip Marin",
+        "details": "Soclul înalt din marmură are reprezentată în partea stângă o fată care își ține cu mâna stângă poala rochiei plină cu flori, iar cu mâna dreaptă oferă un buchet poetului.",
+        "otherDetails": "Traian Demetrescu, cu pseudonimul literar Tradem, (3 noiembrie 1866 - 17 aprilie 1896) a fost un poet pre-simbolist minor, considerat de critici un epigon al lui Mihai Eminescu. A scris versuri încă de când era elev, debutând în anul 1883 în revista „Literatorul”, editată de Alexandru Macedonski. A citit poezii la cenaclul lui Titu Maiorescu și a publicat în revista „Convorbiri literare”. A recunoscut printre primii valoarea lui Mihai Eminescu. După anul 1890 s-a stabilit la București unde, bolnav de tuberculoză, moare la nici 30 de ani.",
+        "category": "Scriitori",
+        "material": "Marmura",
+        "address": "Parcul Cișmigiu, Bulevardul Schitu Măgureanu nr. 37, sector 1",
+        "date": "1905-06-11",
+        "contributor": "Silvia Tirca"
     }
 ]
