@@ -101,5 +101,18 @@
         "address": "Parcul Cișmigiu, Bulevardul Schitu Măgureanu nr. 37, sector 1",
         "date": "1905-06-11",
         "contributor": "Silvia Tirca"
+    },
+    {
+        "id": 9,
+        "lmi": "B-III-m-A-19997",
+        "name": "Statuia lui Mihail Kogălniceanu",
+        "artist": "Oscar Han",
+        "details": "Statuia îl înfățișează pe omul politic, istoricul și scriitorul Mihail Kogălniceanu, în picioare, cu mâna dreaptă sprijinită în șold și cu piciorul stâng ușor împins spre înainte.",
+        "otherDetails": "Soclul în formă de trunchi de piramidă, în trei trepte, are înălțimea de 6 metri, iar statuia ce îl reprezintă pe Mihail Kogălniceanu în picioare, în poziție de orator, are 3 metri înălțime.",
+        "category": "Politicieni",
+        "material": "Bronz",
+        "address": "Piața Mihail Kogălniceanu, sector 5, Bucuresti",
+        "date": "1936-01-01",
+        "contributor": "Mihaela Nicoleta Scripcaru"
     }
 ]
