@@ -153,5 +153,30 @@
         "address": "Bulevardul I.C. Brătianu, la intersecția cu Strada Lipscani, sector 3",
         "date": "1906-09-07",
         "contributor": "Sirghie Roxana"
+    },
+    {
+        "id": 13,
+        "lmi": "B-III-m-B-19951",
+        "name": "Monumentul pompierilor din Dealul Spirii",
+        "artist": "Wladimir Hegel",
+        "details": "Monumentul Eroilor Pompieri din Bucuresti este realizat din bronz de sculptorul Wladimir Hegel (intre anii 1899-1901) si a fost dezvelit la 13 septembrie 1901 pe Dealul Spirii, in fata Arsenalului Armatei, fiind inchinat eroilor pompieri care au ripostat trupelor otomane venite sa inabuse Revolutia de la 1848",
+        "otherDetails": "In prezent, Monumentul Eroilor Pompieri din Bucuresti este inscris in Lista monumentelor istorice 2010 - Municipiul Bucure?ti - la nr. crt. 2269, cod LMI B-III-m-B-19951, sub denumirea Monumentul pompierilor din Dealul Spirii",
+        "category": "Eroi",
+        "material": "Bronz",
+        "address": "Calea 13 Septembrie f.n. sector 5",
+        "date": "1901-09-13",
+        "contributor": "Cioaca Maria"
+    },
+    {
+        "id": 14,
+        "name": "Monumentul lui Iuliu Maniu din Bucuresti",
+        "artist": "Mircea Corneliu Spataru",
+        "details": "Monumentul lui Iuliu Maniu din Bucuresti, realizat si turnat Ón bronz de sculptorul Mircea Corneliu Spataru este amplasat Ón Piata Revolutiei, unde a fost inaugurat pe 1 decembrie 1998",
+        "otherDetails": "Monumentul, dedicat lui Iuliu Maniu, este amplasat vis-a-vis de Biserica Kretzulescu, privind spre Monumentul lui Corneliu Coposu din Bucuresti. Personajul este infatisat ca o figur„ umana asezata pe soclu, si este compus din trei niveluri expresive si stilistice: primul este acela al capului - realist, sever si hieratic -, al doilea, acela al bustului si al mainilor, are cea mai dinamica retorica plastica si gestuala, iar al treilea registru, cel inferior, al membrelor, este fragil volumetric si modelat cu o acuratete aproape calofila.",
+        "category": "Politicieni",
+        "material": "Bronz",
+        "address": "Piata Revolutiei Strada Valter Maracineanu, Bucuresti",
+        "date": "1998-12-01",
+        "contributor": "Cioaca Maria"
     }
 ]

@@ -18,4 +18,5 @@ angular.module('StatuesApp')
         "selected": false
     }])
     .constant("CATEGORIES", ['Personaje', 'Politicieni', 'Istorici', 'Pedagogi',
-        'Scriitori/Preoti', 'Muzicieni', 'Scriitori', 'Statui din bronz']);
+        'Scriitori/Preoti', 'Muzicieni', 'Scriitori', 'Statui din bronz',
+        'Eroi']);
