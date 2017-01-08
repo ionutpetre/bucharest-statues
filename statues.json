@@ -217,5 +217,18 @@
         "address": "Grădina Cișmigiu",
         "date": "1922-10-25",
         "contributor": "Adina Madalina Vida"
+    },
+    {
+        "id": 18,
+        "lmi": "B-III-m-B-19952",
+        "name": "Statuia lui I. L. Caragiale",
+        "artist": "Constantin Baraschi",
+        "details": "Statuia îl reprezintă pe marele dramaturg român, fiind înscrisă în Lista monumentelor istorice 2010 - Municipiul București",
+        "otherDetails": "Statuia a fost comandată cu ocazia aniversării a 100 de ani de la nașterea lui Caragiale, fiind mutată de-a lungul timpului în mai multe puncte strategice din București printre care în fața Teatrului Național și în dreptul casei în care a locuit dramaturgul, loc în care se află și în prezent. Există și o controversă legată de acestă statuie, bănuindu-se că a fost creată reutilizând o statuie a lui Lenin căreia i-a fost schimbat doar capul. Totuși aceste informații sunt contrazise de sculptorului Nicu Enea și de sculptorul Paul Vasilescu, ucenic în atelierului lui Baraschi la vremea construcției statuii",
+        "category": "Scriitori",
+        "material": "Bronz",
+        "address": "La intersecția străzilor I. L. Caragiale și Maria Rosetti, Sector 2",
+        "date": "1957-01-01",
+        "contributor": "Iancu Anca"
     }
 ]
