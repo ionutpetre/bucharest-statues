@@ -140,5 +140,18 @@
         "address": "Piata Lahovari",
         "date": "1901-06-17",
         "contributor": "Tanasescu Teodora-Maria"
+    },
+    {
+        "id": 12,
+        "lmi": "B-III-m-B-20029",
+        "name": "Statuia \"Lupoaica Romei\"",
+        "artist": "Sculptor grec anonim",
+        "details": "În anul 1906, cu ocazia celebrării a 40 de ani de la încoronarea Regelui Carol I ca domnitor al României și 1800 de ani de la cucerirea romană a Daciei, municipalitatea Romei a dăruit bucureștenilor o copie a celebrului monument roman „Lupa Capitolina”, care o reprezenta pe legendara lupoaică care i-ar fi alăptat pe Romulus și Remus, întemeietorii Romei.",
+        "otherDetails": "Inițial, statuia a fost așezată pe un piedestal din piatră, ce purta acronimul SPQR (Senatus Populus Que Romanus, Senatul și Poporul Roman), ea fiind amplasată mai întâi în incinta „Arenelor Romane” din „Parcul Carol I” (la 7 septembrie 1906), apoi (în 1908) în Piața Sfântul Gheorghe (care atunci se numea Piața Romei).",
+        "category": "Statui din bronz",
+        "material": "Bronz",
+        "address": "Bulevardul I.C. Brătianu, la intersecția cu Strada Lipscani, sector 3",
+        "date": "1906-09-07",
+        "contributor": "Sirghie Roxana"
     }
 ]
