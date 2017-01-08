@@ -127,5 +127,18 @@
         "address": "Piata C.A. Rosetti",
         "date": "1903-04-20",
         "contributor": "Roxana Vatasoiu"
+    },
+    {
+        "id": 11,
+        "lmi": "B-III-m-B-20000",
+        "name": "Statuia lui Alexandru Lahovari",
+        "artist": "Jean-Marius Antonin Mercie",
+        "details": "La baza soclului monumentului, ce il reprezinta pe Alexandru N. Lahovari, fruntas al Partidului Conservator, sunt amplasate doua personaje alegorice: Danubius, alegoria masculina a Dunarii si celalalt personaj, o figura feminina in costum national, alegorie a Romaniei Agricole",
+        "otherDetails": "",
+        "category": "Politicieni",
+        "material": "Bronz",
+        "address": "Piata Lahovari",
+        "date": "1901-06-17",
+        "contributor": "Tanasescu Teodora-Maria"
     }
 ]
