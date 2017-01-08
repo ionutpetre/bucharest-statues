@@ -114,5 +114,18 @@
         "address": "Piața Mihail Kogălniceanu, sector 5, Bucuresti",
         "date": "1936-01-01",
         "contributor": "Mihaela Nicoleta Scripcaru"
+    },
+    {
+        "id": 10,
+        "lmi": "B-III-m-A-20030",
+        "name": "Statuia lui C.A. Rosetti",
+        "artist": "Wladimir Hegel",
+        "details": "Statuia lui C. A. Rosetti din București se află în Piața C. A. Rosetti și îl reprezintă pe omul politic Constantin A. Rosetti așezat într-un fotoliu, într-o atitudine de meditație cu ziarul Românul (pe care l-a înființat) într-o mână și cu pana în cealaltă, în postura unui scriitor.",
+        "otherDetails": "Statuia a fost sculptată de Wladimir Hegel și turnată în bronz anul 1902 în cadrul Școlii de arte și meserii din București și amplasată în anul 1903 în Piața Rosetti. Fondurile necesare s-au adunat prin subscripție publică. Inaugurarea a avut loc la 20 aprilie 1903, orele 10, în prezența lui Dimitrie A. Sturdza, primul-ministru al guvernului liberal, Mihail Pherekyde, președintele Camerei, Constantin F. Robescu, primarul Capitalei, Ioan G. Bibicescu, din partea presei. Pe frontispiciul monumentului este fixată o placă de bronz rotundă, frumos ornamentată, ce poartă următoarea inscripție: C. A. Rosetti. 1816-1885. Luminează-te și vei fi. Voiește și vei avea. Pe soclul din piatră al statuii se găsesc două basoreliefuri din bronz ce reproduc momente din activitatea patriotică a lui C. A. Rosetti: actul istoric de la Unirea Principatelor Române, intitulat - 24 ianuarie 1859, iar al doilea se cheamă - 9 mai 1877, evocând proclamarea independenței de stat a României, evenimente istorice în a căror împlinire C.A. Rosetti a avut un rol major.",
+        "category": "Politicieni",
+        "material": "Bronz",
+        "address": "Piata C.A. Rosetti",
+        "date": "1903-04-20",
+        "contributor": "Roxana Vatasoiu"
     }
 ]
