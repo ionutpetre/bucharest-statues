@@ -178,5 +178,18 @@
         "address": "Piata Revolutiei Strada Valter Maracineanu, Bucuresti",
         "date": "1998-12-01",
         "contributor": "Cioaca Maria"
+    },
+    {
+        "id": 15,
+        "lmi": "B-III-m-B-19989",
+        "name": "Monumentul lui Dinicu Golescu",
+        "artist": "Wladimir Hegel, Carol Storck, Dimitrie Mirea",
+        "details": "Statuia il infatiseaza pe Dinicu Golescu si pe cei patru fii ai sai, toti dintre acestia ocupand pozitii politice si sociale foarte inalte in secolul al XIX-lea.",
+        "otherDetails": "Memoria acestuia se pastreaza onorand contributiile literare, dezvoltarea invatamantului si insuflarea spiritului european in spatiul romanesc al vremii.",
+        "category": "Scriitori",
+        "material": "Bronz",
+        "address": "Bulevardul Dinicu Golescu, la intersecția cu str. Mircea Vulcănescu , sector 1",
+        "date": "1908",
+        "contributor": "Manole Madalina Simona"
     }
 ]
