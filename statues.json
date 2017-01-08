@@ -204,5 +204,18 @@
         "address": "Calea 13 Septembrie, Numarul 90",
         "date": "1901-09-13",
         "contributor": "Avramescu Mihai"
+    },
+    {
+        "id": 17,
+        "lmi": "B-III-m-B-20049",
+        "name": "Monumentul Eroilor Francezi",
+        "artist": "Ion Jalea",
+        "details": "Monumentul Eroilor Francezi din București este un grup statuar din marmură de Carrara, dedicat, conform celor scrise bilingv pe soclu, memoriei „Ostașilor Franței căzuți pe câmpul de onoare al pământului românesc în timpul Marelui Război 1916-1918\"-„Auxsoldatsfrançaistombésauchampd’honneursurlesolroumainpendantlaGrandeGuerre1916-1918\"",
+        "otherDetails": "Monumentul este opera sculptorului Ion Jalea, și a fost inaugurat la 25 octombrie 1922 în Grădina Cișmigiu",
+        "category": "Personaje",
+        "material": "Marmura",
+        "address": "Grădina Cișmigiu",
+        "date": "1922-10-25",
+        "contributor": "Adina Madalina Vida"
     }
 ]
