@@ -256,5 +256,31 @@
         "address": "Bd. Brătianu I. C. Nr. 49",
         "date": "1939-01-01",
         "contributor": "Ionescu Daniel Mihai"
+    },
+    {
+        "id": 21,
+        "lmi": "B-III-m-A-20006",
+        "name": "Gigantul 2",
+        "artist": "Frederic Storck",
+        "details": "Statuia reprezintă un nud ce descrie un bărbat tânăr, având o atitudine încordată și cu capul aplecat în față, cu umărul drept răsucit, mâna stângă o folosește drept sprijin, iar cea dreaptă este ținută la spate; picioarele personajului sunt îndoite.",
+        "otherDetails": "Inițial, statuia era amplasată  fața Palatului Artelor și a peșterii artificiale din fața acestuia alături de alte două statui, alcătuind împreună Grota cu Giganți sau Grota fermecată. Cele trei statui reprezentau personajele unei legende, conform căreia doi gemeni erau îndrăgostiți de aceeași femeie. ",
+        "category": "Personaje",
+        "material": "Piatră de Rusciuc",
+        "address": "Piața Libertății, sector 4, în Parcul Carol I",
+        "date": "1906-06-06",
+        "contributor": "Olteanu Florentina Marinela"
+    },
+    {
+        "id": 22,
+        "lmi": "B-III-m-B-20007",
+        "name": "Constantin I. Istrati",
+        "artist": "Oscar Späthe",
+        "details": "Statuia îl înfățișează pe Constantin I. Istrati ca profesor, ținându-și cursurile, iar soclul are montat în partea frontală un basorelief din bronz care îl arată pe acesta în postura sa de doctor în laboratorul său.",
+        "otherDetails": "Statuia este o operă din bronz ce a fost inaugurată la 4 noiembrie 1928 în parcul Carol I din București și este așezată pe un soclu din piatră de Câmpulung.",
+        "category": "Politicieni/Profesori",
+        "material": "Bronz",
+        "address": "Piața Libertății, sector 4, în Parcul Carol I",
+        "date": "1928-11-04",
+        "contributor": "Olteanu Florentina Marinela"
     }
 ]
