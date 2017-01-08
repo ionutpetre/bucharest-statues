@@ -19,4 +19,4 @@ angular.module('StatuesApp')
     }])
     .constant("CATEGORIES", ['Personaje', 'Politicieni', 'Istorici', 'Pedagogi',
         'Scriitori/Preoti', 'Muzicieni', 'Scriitori', 'Statui din bronz',
-        'Eroi']);
+        'Eroi', 'Domnitori']);

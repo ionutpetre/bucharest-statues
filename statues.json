@@ -230,5 +230,31 @@
         "address": "La intersecția străzilor I. L. Caragiale și Maria Rosetti, Sector 2",
         "date": "1957-01-01",
         "contributor": "Iancu Anca"
+    },
+    {
+        "id": 19,
+        "lmi": "B-III-m-B-20001",
+        "name": "Statuia lui Vasile Lascăr",
+        "artist": "Gheorghe Horvath",
+        "details": "Statuia îl reprezintă pe Vasile Lascăr în picioare, în mărime naturală, fiind așezată pe un soclu înalt de piatră. În fața soclului este o tânără care scrie următoarea inscripție: Vasile Lascăr VROIESC SĂ FAC DIN ADMINISTRAȚIE O A DOUA MAGISTRATURĂ.",
+        "otherDetails": "Statuia este amplasata chiar în fața casei unde a locuit Vasile Lascăr, membru al Partidului Liberal.",
+        "category": "Politicieni",
+        "material": "Bronz",
+        "address": "Str. Vasile Lascăr Nr. 33",
+        "date": "1908-06-01",
+        "contributor": "Ionescu Daniel Mihai"
+    },
+    {
+        "id": 20,
+        "lmi": "B-III-m-A-19965",
+        "name": "Statuia lui Constantin Brâncoveanu",
+        "artist": "Oscar Han",
+        "details": "Monumentul a fost realizat din inițiativa primarului general al Bucureștiului din anul 1938, Iulian Peter, pentru a cinsti credința și martiriul marelui domnitor.",
+        "otherDetails": "Statuia, care are o înălțime mai mare decât cea a domnitorului, îl prezintă pe Constantin Brâncoveanu tânăr, îmbrăcat într-o tunică lungă prinsă la piept, sub care poartă haina de domnitor.",
+        "category": "Domnitori",
+        "material": "Bronz",
+        "address": "Bd. Brătianu I. C. Nr. 49",
+        "date": "1939-01-01",
+        "contributor": "Ionescu Daniel Mihai"
     }
 ]
