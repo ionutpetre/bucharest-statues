@@ -191,5 +191,18 @@
         "address": "Bulevardul Dinicu Golescu, la intersecția cu str. Mircea Vulcănescu , sector 1",
         "date": "1908",
         "contributor": "Manole Madalina Simona"
+    },
+    {
+        "id": 16,
+        "lmi": "B-III-m-B-19951",
+        "name": "Monumentul Eroilor Pompieri",
+        "artist": "Wladimir Hegel",
+        "details": "Monumentul a fost dedicat pompierilor din Dealul Spirii care au luptat pentru Revolutia de la 1848.",
+        "otherDetails": "In fiecare an pe data de 13 Septembrie detasamente de pompieri defileaza cu ofiteri si echipamente, iar principalele institutii administrative depun coroane de flori in jurul statuii.",
+        "category": "Eroi",
+        "material": "Bronz",
+        "address": "Calea 13 Septembrie, Numarul 90",
+        "date": "1901-09-13",
+        "contributor": "Avramescu Mihai"
     }
 ]
