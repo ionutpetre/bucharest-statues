@@ -282,5 +282,42 @@
         "address": "Piața Libertății, sector 4, în Parcul Carol I",
         "date": "1928-11-04",
         "contributor": "Olteanu Florentina Marinela"
+    },
+    {
+        "id": 23,
+        "name": "Statuia lui Carol I",
+        "artist": "Ivan Meštrović",
+        "details": "Stema anacronica a Romaniei este prezenta pe soclu in partea din fata.",
+        "otherDetails": "Are o greutate de 13 tone si o inaltime totala de 13 metri.",
+        "category": "Regi",
+        "material": "Bronz",
+        "address": "Calea Victoriei Nr. 88",
+        "date": "2010-12-06",
+        "contributor": "Cosmin Bizon"
+    },
+    {
+        "id": 24,
+        "name": "Statuia lui Spiru Haret",
+        "artist": "Ion Jalea",
+        "details": "Basorelief pe soclu in laturile de la stanga si de la dreapta.",
+        "otherDetails": "Restaurata in 2006, septembrie, ca urmare a vandalizarilor.",
+        "category": "Actori",
+        "material": "Marmura",
+        "address": "Bd. Regina Elisabeta, colt cu Str. Academiei",
+        "date": "1935-12-10",
+        "contributor": "Cosmin Bizon"
+    },
+    {
+        "id": 25,
+        "lmi": "B-III-m-B-20010",
+        "name": "Statuia geniului „Leul”",
+        "artist": "Spiridon Georgescu",
+        "details": "Grupul statuar este format dintr-un leu, care simbolizează forţa, patru soldaţi de geniu amplasaţi pe cele patru colţuri ale soclului, panouri cu basoreliefuri şi diverse inscriptii. Elemntul dominant al monumentului, leul, este înfățișat stând pe o țeavă de tun și pe o cască, peste care este desfășurat un drapel de luptă, toate aparținând trupelor inamice. Acesta simbolizează rezistența, dârzenia și vitejia de care a dat dovadă oștirea română în Primul Război Mondial, în campaniile din anii 1916-1918, în special în timpul încleștărilor dramatice de la Mărăști, Mărășești și Oituz.",
+        "otherDetails": "Monumentul, cu denumirea completă Monumentul Eroilor din Arma Geniului, a fost realizat de sculptorul Spiridon Georgescu și turnat în bronz la Fabrica și turnătoria V.V. Rășcanu din București. Pe una din laturile monumentului este inscripţionat următorul mesaj: „ Spuneţi generaţiilor viitoare că noi am făcut suprema jertfă pe câmpurile de bătălie pentru întregirea neamului.” ",
+        "category": " Eroi",
+        "material": "Bronz",
+        "address": "La intersecția bulevardelor Iuliu Maniu și Geniului, sector 6, în apropiere de Palatul Cotroceni",
+        "date": "1929-06-29",
+        "contributor": "Mihalache Alexandra-Georgiana"
     }
 ]
