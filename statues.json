@@ -319,5 +319,30 @@
         "address": "La intersecția bulevardelor Iuliu Maniu și Geniului, sector 6, în apropiere de Palatul Cotroceni",
         "date": "1929-06-29",
         "contributor": "Mihalache Alexandra-Georgiana"
+    },
+    {
+        "id": 26,
+        "name": "Statuia Rascoalei din 1907",
+        "artist": "Naum Corcescu",
+        "details": "Statuie dedicata rascoalei taranesti din 1907",
+        "otherDetails": "Compusa din doua parti: un grup statuar format din doua personaje realizate din bronz si un soclu din beton armat placat cu roca de culoare alba; restaurata de Ionel Stoicescu in 2007 si mutata in Parcul Florilor din Parcul Obor",
+        "category": "Eveniment Istoric",
+        "material": "Bronz",
+        "address": "Parcul Florilor",
+        "date": "1971-10-23",
+        "contributor": "Niculae Mihai"
+    },
+    {
+        "id": 27,
+        "name": "Statuia lui Tudor Vladimirescu",
+        "artist": " Teodor Burca",
+        "details": "Statuia îl reprezinta pe Tudor Vladimirescu în picioare, tinând cu mâna dreapta sabia ridicata deasupra capului ?i având în mâna stânga un drapel.În partea frontala a soclului este reprezentat un leu.",
+        "otherDetails": "LMI: B-III-m-B-20025 ",
+        "category": "Domnitori",
+        "material": "Bronz",
+        "lmi": "B-III-m-B-20025",
+        "address": "Str. Precupetii Vechi f.n. sector 2",
+        "date": "1934-02-25",
+        "contributor": "Niculae Mihai"
     }
 ]
