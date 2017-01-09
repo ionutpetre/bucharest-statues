@@ -20,7 +20,7 @@
         </md-content>
     </div>
     <div class="md-padding statues-container" layout="row" layout-wrap>
-        <md-card ng-repeat="statue in statues | filter:search:strict | orderBy:orderBy" ui-sref="statue({id: statue.id})">
+        <md-card ng-repeat="statue in statues | filter:search:strict | orderBy:orderBy">
             <statue-card statue="statue"></statue-card>
         </md-card>
     </div>

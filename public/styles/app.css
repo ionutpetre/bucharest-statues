@@ -4,3 +4,14 @@
 
 body {
 }
+
+header {
+    z-index: 99;
+    position: fixed;
+    top: 0;
+}
+
+header img {
+    opacity: 1;
+    background: white;
+}

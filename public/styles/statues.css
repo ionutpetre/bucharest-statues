@@ -3,14 +3,12 @@
     flex-direction: column;
 }
 
-
 #statues .statues-header {
-    margin-top: 20px;
+    margin-top: 135px;
     border-top: 1px solid #e7e7e7;
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
-    margin: 0;
     position: fixed;
     top: 0;
     z-index: 99;
@@ -45,7 +43,7 @@
 }
 
 #statues .statues-container {
-    margin-top: 50px;
+    margin-top: 185px;
 	flex-basis: 30%;
 }
 
