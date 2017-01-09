@@ -1,11 +1,71 @@
-<md-content id="statue" flex layout-padding ng-cloak>
-    <h1 class="md-title">{{statue.name}}</h1>
-    <p ng-if="statue.description.length">{{statue.description}}</p>
-	<img ng-src="images/statues/statue_{{statue.id}}/front.jpg" alt="{{statue.name}}" onerror="this.style.display='none'">
-	<img ng-src="images/statues/statue_{{statue.id}}/left.jpg" alt="{{statue.name}}" onerror="this.style.display='none'">
-	<img ng-src="images/statues/statue_{{statue.id}}/right.jpg" alt="{{statue.name}}" onerror="this.style.display='none'">
-	<img ng-src="images/statues/statue_{{statue.id}}/back.jpg" alt="{{statue.name}}" onerror="this.style.display='none'">
-    <md-button ui-sref="statues">
-        REVENIRE
-    </md-button>
+<md-content class="md-padding" layout-xs="column" layout="row">
+
+	<div flex-xs flex-gt-xs="100" layout="column">
+		<md-card md-theme="{{ showDarkTheme ? 'dark-orange' : 'default' }}" md-theme-watch>
+			<md-card-title>
+				<md-card-title-text class="statue-title">
+					<span class="md-headline">{{statue.name}}</span>
+					<span class="xs-headline">Sculptor: {{statue.artist}}</span>
+				</md-card-title-text>
+			</md-card-title>
+			<md-card-content layout="row" layout-align="space-between">
+				<md-card-content layout="column">
+					<div class="slider" id="slider_control" style="display:block">
+						<div class="carousel-caption">
+							<img style="max-width:100%" ng-repeat="slide in slides" ng-src="{{slide.image}}" ng-hide="!isCurrentSlideIndex($index)"/>
+
+							<a class="arrow prev" href="" ng-click="nextSlide()"></a>
+							<a class="arrow next" href="" ng-click="prevSlide()"></a>
+
+							<nav class="nav">
+								<div class="wrapper">
+									<ul class="dots">
+										<li class="dot" ng-repeat="slide in slides">
+											<a ng-class="{'active':isCurrentSlideIndex($index)}"ng-click="setCurrentSlideIndex($index);"> </a>
+										</li>
+									</ul>
+								</div>
+							</nav>
+
+						</div>
+
+					</div>
+				</md-card-content>
+				<md-card-content class="statue-details">
+					<ul>
+						<li>
+							<span>Cod LMI: </span>{{statue.lmi}}
+						</li>
+						<li>
+							<span>Descriere: </span>{{statue.otherDetails}}
+						</li>
+						<li>
+							<span>Detalii: </span>{{statue.details}}
+						</li>
+						<li>
+							<span>Categorie: </span>{{statue.category}}
+						</li>
+						<li>
+							<span>Material: </span>{{statue.material}}
+						</li>
+						<li>
+							<span>Locatie: </span>{{statue.address}}
+						</li>
+						<li>
+							<span>Data inceperii constructiei: </span>{{statue.date}}
+						</li>
+						<li>
+							<span>Contribuitor: </span>{{statue.contributor}}
+						</li>
+						<li id="button-back">
+							<md-button ui-sref="statues">
+								Revenire
+							</md-button>
+						</li>
+				</md-card-content>
+		</md-card>
+	</div>
+
+	</div>
+
 </md-content>
