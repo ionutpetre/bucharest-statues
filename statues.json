@@ -344,5 +344,17 @@
         "address": "Str. Precupetii Vechi f.n. sector 2",
         "date": "1934-02-25",
         "contributor": "Niculae Mihai"
+    },
+    {
+        "id": 28,
+        "name": "Fântâna Vioara Spartă",
+        "artist": "Domenica Regazzoni",
+        "details": "Fantana Vioara Sparta (Violino Spaccato) este un monument de for public din Bucuresti, instalat in parculetul Coltea, aflat intre spitalul omonim si Ministerul Agriculturii. Monumentul consta dintr-o fântâna de mari dimensiuni, in mijlocul careia de afla o vioara de bronz dezmembrata.",
+        "otherDetails": "Vioara, cu o greutate de 7 tone, a fost realizată de artistul Ioan Bolborea, după o schiță de 20 de centimetri a artistei italiene Domenica Regazzoni, autoarea unui ciclu de sculpturi reprezentând viori. Cea din contract este de tipul \"Vioară spartă\", pentru că elementele ei principale sunt desfăcute. Ioan Bolborea a mărit lucrarea la scară și a turnat-o în bronz. De fiecare parte a viorii s-a montat câte o construcție metalică alcătuită din trei elemente fiecare, destinate a forma împreună o perdea de apă, cu rolul de a împrospăta aerul. La un moment dat, fântâna a fost dezafectată, perdeaua de apă și celelalte elemente decorative au fost îndepărtate iar pe locul bazinului a fost amenajată o platformă pentru susținerea de spectacole în aer liber.",
+        "category": "Muzică",
+        "material": "Bronz",
+        "address": "Bulevardul Carol I, Parcul Colțea",
+        "date": "2009",
+        "contributor": "Maroz Cristiana"
     }
 ]
