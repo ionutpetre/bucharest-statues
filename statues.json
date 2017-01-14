@@ -382,5 +382,18 @@
         "address": "Str. Franklin Benjamin 1-3 sector 1, în Grădina Ateneului",
         "date": "1965-01-01",
         "contributor": "Vișan Andreea Nicoleta"
+    },
+    {
+        "id": 31,
+        "lmi": "B-III-m-B-20040",
+        "name": "Bustul lui Titu Maiorescu",
+        "artist": "Ion Dimitriu-Bârlad",
+        "details": "Titu Maiorescu a fost o personalitate remarcabila a Romaniei secolului XIX, iar prezenta bustului in Rondul Roman sau Rotonda Scriitorilor din Parcul Cismigiu este o recunoastere a aportului important adus literaturii romane, si nu numai.",
+        "otherDetails": "Rotonda scriitorilor (cunoscutã ini?ial sub denumirea de Rondul Roman) este un ansamblu monumental, care a fost inaugurat pe 27 iunie 1943 în Parcul Ci?migiu din Bucure?ti, în timpul mandatului primarului Bucure?tiului Ion Rã?canu, din ini?iativa ministrului educa?iei na?ionale, Ion Petrovici.",
+        "category": "Scriitori",
+        "material": "Marmura",
+        "address": "Parcul Cismigiu, Bulevardul Schitu Mãgureanu nr. 37, sector 1",
+        "date": "1943-06-27",
+        "contributor": "Ene Gabriela"
     }
 ]
