@@ -260,7 +260,7 @@
     {
         "id": 21,
         "lmi": "B-III-m-A-20006",
-        "name": "Gigantul 2",
+        "name": "Gigantul 1",
         "artist": "Frederic Storck",
         "details": "Statuia reprezintă un nud ce descrie un bărbat tânăr, având o atitudine încordată și cu capul aplecat în față, cu umărul drept răsucit, mâna stângă o folosește drept sprijin, iar cea dreaptă este ținută la spate; picioarele personajului sunt îndoite.",
         "otherDetails": "Inițial, statuia era amplasată  fața Palatului Artelor și a peșterii artificiale din fața acestuia alături de alte două statui, alcătuind împreună Grota cu Giganți sau Grota fermecată. Cele trei statui reprezentau personajele unei legende, conform căreia doi gemeni erau îndrăgostiți de aceeași femeie. ",
@@ -356,5 +356,18 @@
         "address": "Bulevardul Carol I, Parcul Colțea",
         "date": "2009",
         "contributor": "Maroz Cristiana"
+    },
+    {
+        "id": 29,
+        "lmi": "B-III-m-A-20005",
+        "name": "Gigantul 2",
+        "artist": "Dimitrie Paciurea",
+        "details": "Statuia  reprezintă tot un nud de tânăr, cu capul aplecat spre umărul stâng, trunchiul este răsucit și se sprijină pe mâna stângă, în timp ce mâna dreaptă este ținută la spate.",
+        "otherDetails": "„Gigantul în piatră al lui Paciurea, înmărmurit în fața frumoasei din peșteră, într-o încordare supraomenească, desfășoară toată splendoarea plastică a corpului uman” spunea despre operă Oscar Han.",
+        "category": "Personaje",
+        "material": "Piatră de Rusciuc",
+        "address": "Piața Libertății, sector 4, în Parcul Carol I",
+        "date": "1905",
+        "contributor": "Antohi Diana"
     }
 ]
