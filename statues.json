@@ -369,5 +369,18 @@
         "address": "Piața Libertății, sector 4, în Parcul Carol I",
         "date": "1905",
         "contributor": "Antohi Diana"
+    },
+    {
+        "id": 30,
+        "lmi": "B-III-m-B-19983",
+        "name": "Statuia lui Mihai Eminescu",
+        "artist": "Gheorghe D. Anghel",
+        "details": "Omagiu adus de obște poetului.",
+        "otherDetails": "",
+        "category": "Poeți",
+        "material": "Bronz",
+        "address": "Str. Franklin Benjamin 1-3 sector 1, în Grădina Ateneului",
+        "date": "1965-01-01",
+        "contributor": "Vișan Andreea Nicoleta"
     }
 ]
