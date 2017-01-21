@@ -421,5 +421,17 @@
         "address": "Piața Gării de Nord, sector 1",
         "date": "1924",
         "contributor": "Neață Alexandru"
+    },
+    {
+        "id": 34,
+        "name": "Maternitate",
+        "artist": "Ion Vlasiu",
+        "details": "Omagiu adus maternitatii.",
+        "otherDetails": "Infatiseaza o femeie tanara ce tine in brate doi copii gemeni si simbolizeaza maternitatea si bucuria de a tari.",
+        "category": "Personaje",
+        "material": "Piatra",
+        "address": "Piata Cantacuzino Gh. sector 2, in Gradina Icoanei",
+        "date": "1958-03-11",
+        "contributor": "Zamfir Andreea Alexandra"
     }
 ]
