@@ -433,5 +433,18 @@
         "address": "Piata Cantacuzino Gh. sector 2, in Gradina Icoanei",
         "date": "1958-03-11",
         "contributor": "Zamfir Andreea Alexandra"
+    },
+    {
+        "id": 35,
+        "lmi": "B-II-a-B-18301",
+        "name": "Monumentul lui G. C. Cantacuzino",
+        "artist": "Ernest Henri Dubois",
+        "details": "Monumentul lui G. C. Cantacuzino a fost ridicat în memoria lui George C. Cantacuzino-Râfoveanu (1845-1898), fost om politic român, fost ministru de finanțe și director al ziarului liberal Voința Națională și se află în București, la intrarea în parcul Grădina Icoanei dinspre Piața Gh. Cantacuzino. ",
+        "otherDetails": "La baza soclului este o figură turnată în bronz: o femee care reprezintă presa ținând in mâna dreaptă o pană iar în cea stângă o carte deschisă pe care se cetește cuvântul „Patrie”. Pe ambele file ale cărței sunt scrise numele: „I. Câmpinean”, frații Golescu, C. Negri, A. Panu, C. A. Rosetti, I. C. Brătianu și G. C. Cantacuzino. La picioarele femeei care reprezintă Presa, se vede ziarul „Voința Națională” al cărui director și fondator a fost.",
+        "category": "Politicieni",
+        "material": "Bronz",
+        "address": "Piața Gh. Cantacuzino",
+        "date": "1904",
+        "contributor": "Bavaleta Georgiana"
     }
 ]
