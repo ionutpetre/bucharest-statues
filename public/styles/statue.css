@@ -141,3 +141,11 @@ NAV
 	text-align:center;
 	max-width:50%;
 }
+
+.md-dialog-container {
+    z-index: 9999;
+}
+
+md-dialog {
+    margin-top: 150px;
+}

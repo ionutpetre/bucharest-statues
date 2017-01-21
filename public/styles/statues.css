@@ -38,6 +38,18 @@
     margin-left: 20px;
 }
 
+#statues .statues-header md-input-container {
+    width: 750px;
+}
+
+md-select-menu md-content md-option:first-child {
+    margin-top: 50px;
+}
+
+.md-select-menu-container {
+    top: 235px;
+}
+
 #statues .statues-header .tabs {
 	flex-basis: 70%;
 }
