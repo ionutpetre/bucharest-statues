@@ -10,8 +10,8 @@ let express = require('express'),
 let statueApi = require('./routes/api/statue');
 let app = express();
 
-app.set('host', '0.0.0.0');
-app.set('port', 3000);
+app.set('host', process.env.IP || '0.0.0.0');
+app.set('port', process.env.PORT || 3000);
 
 app.use(express.static(__dirname + '/public'));
 app.use(bodyParser.json());
