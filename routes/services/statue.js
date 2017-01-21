@@ -13,13 +13,47 @@ module.exports = {
             resolve(_getAllStatues());
         });
     },
+    getAllStatueCategs: () => {
+        return new Promise((resolve, reject) => {
+            let statueCategs = _getAllStatues().map((statue) => {
+                return statue.category;
+            });
+            let uniqueStatueCategs = statueCategs.filter((_statueCateg, _statueCategIndx, _statueCategs) => {
+                return _statueCategs.indexOf(_statueCateg) === _statueCategIndx;
+            });
+            resolve(uniqueStatueCategs);
+        });
+    },
+    getAllStatueContributors: () => {
+        return new Promise((resolve, reject) => {
+            let statueContributors = _getAllStatues().map((statue) => {
+                return statue.contributor;
+            });
+            let uniqueStatueContributors = statueContributors.filter((_statueContributor, _statueContributorIdx, _statueContributors) => {
+                return _statueContributors.indexOf(_statueContributor) === _statueContributorIdx;
+            });
+            resolve(uniqueStatueContributors);
+        });
+    },
+    getAllStatueAddresses: () => {
+        return new Promise((resolve, reject) => {
+            let statueAddresses = _getAllStatues().map((statue) => {
+                return statue.address;
+            });
+            let uniqueStatueAddresses = statueAddresses.filter((_statueAddress, _statueAddressIdx, _statueAddresses) => {
+                return _statueAddresses.indexOf(_statueAddress) === _statueAddressIdx;
+            });
+            resolve(uniqueStatueAddresses);
+        });
+    },
     getById: (id) => {
         return new Promise((resolve, reject) => {
             let statues = _getAllStatues().filter((statue) => {
                 return statue.id == id;
             });
             if (statues.length) {
-                resolve(statues[0]);
+                let statue = statues[0];
+                resolve(statue);
             } else {
                 reject({ message: 'No statue with this id!' });
             }

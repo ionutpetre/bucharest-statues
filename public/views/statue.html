@@ -12,7 +12,7 @@
 				<md-card-content layout="column">
 					<div class="slider" id="slider_control" style="display:block">
 						<div class="carousel-caption">
-							<img style="max-width:100%" ng-repeat="slide in slides" ng-src="{{slide.image}}" ng-hide="!isCurrentSlideIndex($index)"/>
+							<img style="max-width:100%" ng-click="openImageModal(slide.image)" ng-repeat="slide in slides" ng-src="{{slide.image}}" ng-hide="!isCurrentSlideIndex($index)"/>
 
 							<a class="arrow prev" href="" ng-click="nextSlide()"></a>
 							<a class="arrow next" href="" ng-click="prevSlide()"></a>

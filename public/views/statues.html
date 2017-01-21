@@ -1,5 +1,5 @@
 <div id="statues">
-    <div class="statues-header" ng-class="filters[2].selected ? 'big' : 'small'">
+    <div class="statues-header" ng-class="(filters[2].selected || filters[3].selected) ? 'big' : 'small'">
         <md-content class="search-input">
             <md-input-container class="md-block" flex-gt-sm>
                 <label>Cauta statuie dupa cuvant cheie</label>
@@ -9,13 +9,34 @@
         </md-content>
         <md-content class="tabs">
             <md-tabs md-dynamic-height md-border-bottom>
-                <md-tab label="{{filter.name}}" ng-repeat="filter in filters track by $index" md-on-select="setSelectedFilters($index)">
-                    <md-input-container ng-show="filters[2].selected">
+                <!-- <md-tab label="{{filter.name}}" ng-repeat="filter in filters track by $index" md-on-select="setSelectedFilters($index)">
+                    <md-input-container ng-if="filters[2].selected || filters[3].selected">
+                        <md-select ng-if="filters[2].selected" ng-model="search.category" placeholder="Alege o categorie">
+                            <md-option ng-value="category" ng-repeat="category in categories">{{category}}</md-option>
+                        </md-select>
+                    </md-input-container>
+                </md-tab> -->
+
+                <md-tab label="{{filters[0].name}}" md-on-select="setSelectedFilters(0)"></md-tab>
+
+                <md-tab label="{{filters[1].name}}" md-on-select="setSelectedFilters(1)"></md-tab>
+
+                <md-tab label="{{filters[2].name}}" md-on-select="setSelectedFilters(2)">
+                    <md-input-container>
                         <md-select ng-model="search.category" placeholder="Alege o categorie">
                             <md-option ng-value="category" ng-repeat="category in categories">{{category}}</md-option>
                         </md-select>
                     </md-input-container>
                 </md-tab>
+
+                <md-tab label="{{filters[3].name}}" md-on-select="setSelectedFilters(3)">
+                    <md-input-container>
+                        <md-select ng-model="search.contributor" placeholder="Alege un student">
+                            <md-option ng-value="contributor" ng-repeat="contributor in contributors">{{contributor}}</md-option>
+                        </md-select>
+                    </md-input-container>
+                </md-tab>
+
             </md-tabs>
         </md-content>
     </div>
