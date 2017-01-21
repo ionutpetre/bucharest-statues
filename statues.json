@@ -395,5 +395,31 @@
         "address": "Parcul Cismigiu, Bulevardul Schitu Mãgureanu nr. 37, sector 1",
         "date": "1943-06-27",
         "contributor": "Ene Gabriela"
+    },
+    {
+        "id": 32,
+        "lmi": "B-III-m-B-19986",
+        "name": "Monumentul eroilor ceferiști",
+        "artist": "Corneliu Medrea și Ion Jalea",
+        "details": "A fost ridicat în memoria ceferiștilor căzuți în Primul Război Mondial.",
+        "otherDetails": "Elementul principal al monumentului este un grup sculptural, turnat în bronz, compus din mai multe personaje. O femeie, care simbolizează Patria, ține o cunună de lauri deasupra capului unui muncitor feroviar. Lângă ea, de o parte a soclului, se află doi muncitori ceferiști, iar de cealaltă parte a soclului, un soldat român, în ținută de campanie, ce ocrotește o femeie și copilul acesteia.",
+        "category": "Eroi",
+        "material": "Bronz",
+        "address": "Piața Gării de Nord, sector 1",
+        "date": "1923",
+        "contributor": "Neață Alexandru"
+    },
+    {
+        "id": 33,
+        "lmi": "B-III-m-B-19987",
+        "name": "Monumentul ing. Gheorghe Duca",
+        "artist": "Dimitrie Paciurea, Filip Marin și de arhitectul Ștefan Burcuș",
+        "details": "Evocă personalitatea inginerului Gheorghe Duca (1847-1899) care a lucrat la construirea căii ferate Ploiești-Predeal, a portului Constanța și a deținut după 1888 funcțiile de director general al C.F.R. și de director al Școlii naționale de poduri și șosele.",
+        "otherDetails": "Monumentul este format dintr-un bust al inginerului Duca și un grup statuar, aflat la baza soclului, ce reprezintă o femeie cu o carte în mână și o fata care scrie inscripția de pe soclu.",
+        "category": "Ingineri",
+        "material": "Bronz",
+        "address": "Piața Gării de Nord, sector 1",
+        "date": "1924",
+        "contributor": "Neață Alexandru"
     }
 ]
