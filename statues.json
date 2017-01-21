@@ -472,5 +472,18 @@
         "address": "Piata Universitatii",
         "date": "1874-06-14",
         "contributor": "Razvan Ganea"
+    },
+    {
+        "id": 38,
+        "lmi": "B-III-m-B-19986",
+        "name": "Monumentul eriolor ceferisti",
+        "artist": "Corneliu Medrea și Ion Jalea",
+        "details": "a fost ridicat pentru a cinsti memoria eroilor ceferiști căzuți în Primul Război Mondial. Pe fațada principală a este înscrisă inscripția: \"Eroilor CFR - 1916-1918\" ",
+        "otherDetails": "Statuia este realizată din bronz și are o înălțime 2,50 m, iar soclul are o înălțime 7,0 m, fiind realizat din granit.Pe partea laterală a soclului, este săpată în marmură albă următoarea inscripție: “OMAGIU SI RECUNOSTINTA EROILOR MILITARI DE CAI FERATE SI TRANSPORTURI DIN ARMATA ROMANA CARE S-AU JERTFIT PENTRU CAUZA NATIUNII” Grupul statuar este montat pe un piedestal, format din două volume paralelipipedice, din beton, placat cu granit, care se sprijină pe un soclu în cinci trepte și este compus din mai multe personaje. O femeie, care simbolizează Patria ce ține o cunună de lauri deasupra capului unui muncitor feroviar. Lângă aceasta, de o parte a soclului, se găsește un soldat român, ce poartă o ținută de campanie, acesta ocrotește o femeie și copilul acesteia, iar de cealaltă parte a soclului, se află doi muncitori ceferiști.",
+        "category": "Eroi",
+        "material": "Bronz",
+        "address": "Piata Garii de Nord",
+        "date": "1923-01-01",
+        "contributor": "Pirvu Flavia-Alice"
     }
 ]
