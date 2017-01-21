@@ -446,5 +446,31 @@
         "address": "Piața Gh. Cantacuzino",
         "date": "1904",
         "contributor": "Bavaleta Georgiana"
+    },
+    {
+        "id": 36,
+        "lmi": "B-III-m-A-20058",
+        "name": "Monumentul lui Ion Heliade Radulescu",
+        "artist": "Ettore Ferrarii",
+        "details": "-",
+        "otherDetails": "-",
+        "category": "Scriitori",
+        "material": "Marmura",
+        "address": "Piata Universitatii",
+        "date": "1881-03-23",
+        "contributor": "Razvan Ganea"
+    },
+    {
+        "id": 37,
+        "lmi": "B-III-m-A-20057",
+        "name": "Statuia lui Mihai Viteazu",
+        "artist": "Carrier Belleuse",
+        "details": "-",
+        "otherDetails": "-",
+        "category": "Domnitori",
+        "material": "Bronz",
+        "address": "Piata Universitatii",
+        "date": "1874-06-14",
+        "contributor": "Razvan Ganea"
     }
 ]
