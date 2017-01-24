@@ -9,7 +9,8 @@
         "material": "Bronz",
         "address": "Piata Universitatii (pe platforma hotelului Intercontinental, in fata TNB)",
         "date": "2010-12-19",
-        "contributor": "Bianca Denes"
+        "contributor": "Bianca Denes",
+        "contributorDate": "2016-12-03"
     },
     {
         "id": 2,
@@ -22,7 +23,8 @@
         "material": "Marmura",
         "address": "La intersectia Sos. Nicolae Titulescu cu Bulevardul Banu Manta, Sector 1",
         "date": "1982-01-01",
-        "contributor": "Deleanu Andrei"
+        "contributor": "Deleanu Andrei",
+        "contributorDate": "2016-12-05"
     },
     {
         "id": 3,
@@ -35,7 +37,8 @@
         "material": "Bronz",
         "address": "Str. Bulevardul Aviatorilor Nr. 1,  in fata Institutului de Istorie „Nicolae Iorga”, Sector 1",
         "date": "1976-01-01",
-        "contributor": "Deleanu Andrei"
+        "contributor": "Deleanu Andrei",
+        "contributorDate": "2016-12-05"
     },
     {
         "id": 4,
@@ -48,7 +51,8 @@
         "material": "Marmura",
         "address": "Piata Universitatii, Sector 3",
         "date": "1886-05-11",
-        "contributor": "Andreea Ghica"
+        "contributor": "Andreea Ghica",
+        "contributorDate": "2016-12-08"
     },
     {
         "id": 5,
@@ -61,7 +65,8 @@
         "material": "Bronz",
         "address": "Piața Monseniorul Vladimir Ghika, aflată în Sectorul 1, la intersecția străzilor Gheorghe Demetriade și Emil Pangratti",
         "date": "1938-01-01",
-        "contributor": "Andreea Ghica"
+        "contributor": "Andreea Ghica",
+        "contributorDate": "2016-12-08"
     },
     {
         "id": 6,
@@ -74,7 +79,8 @@
         "material": "Granit",
         "address": "Bulevardul Dacia nr. 33",
         "date": "1938-11-24",
-        "contributor": "Adrian Istrate"
+        "contributor": "Adrian Istrate",
+        "contributorDate": "2016-12-10"
     },
     {
         "id": 7,
@@ -87,7 +93,8 @@
         "material": "Bronz",
         "address": "Bulevardul Mihail Kogălniceanu nr. 50",
         "date": "1971-09-29",
-        "contributor": "Adrian Istrate"
+        "contributor": "Adrian Istrate",
+        "contributorDate": "2016-12-10"
     },
     {
         "id": 8,
@@ -100,7 +107,8 @@
         "material": "Marmura",
         "address": "Parcul Cișmigiu, Bulevardul Schitu Măgureanu nr. 37, sector 1",
         "date": "1905-06-11",
-        "contributor": "Silvia Tirca"
+        "contributor": "Silvia Tirca",
+        "contributorDate": "2016-12-18"
     },
     {
         "id": 9,
@@ -113,7 +121,8 @@
         "material": "Bronz",
         "address": "Piața Mihail Kogălniceanu, sector 5, Bucuresti",
         "date": "1936-01-01",
-        "contributor": "Mihaela Nicoleta Scripcaru"
+        "contributor": "Mihaela Nicoleta Scripcaru",
+        "contributorDate": "2016-12-25"
     },
     {
         "id": 10,
@@ -126,7 +135,8 @@
         "material": "Bronz",
         "address": "Piata C.A. Rosetti",
         "date": "1903-04-20",
-        "contributor": "Roxana Vatasoiu"
+        "contributor": "Roxana Vatasoiu",
+        "contributorDate": "2016-12-29"
     },
     {
         "id": 11,
@@ -139,7 +149,8 @@
         "material": "Bronz",
         "address": "Piata Lahovari",
         "date": "1901-06-17",
-        "contributor": "Tanasescu Teodora-Maria"
+        "contributor": "Tanasescu Teodora-Maria",
+        "contributorDate": "2016-12-30"
     },
     {
         "id": 12,
@@ -152,7 +163,8 @@
         "material": "Bronz",
         "address": "Bulevardul I.C. Brătianu, la intersecția cu Strada Lipscani, sector 3",
         "date": "1906-09-07",
-        "contributor": "Sirghie Roxana"
+        "contributor": "Sirghie Roxana",
+        "contributorDate": "2016-12-30"
     },
     {
         "id": 13,
@@ -165,7 +177,8 @@
         "material": "Bronz",
         "address": "Calea 13 Septembrie f.n. sector 5",
         "date": "1901-09-13",
-        "contributor": "Cioaca Maria"
+        "contributor": "Cioaca Maria",
+        "contributorDate": "2017-01-03"
     },
     {
         "id": 14,
@@ -177,7 +190,8 @@
         "material": "Bronz",
         "address": "Piata Revolutiei Strada Valter Maracineanu, Bucuresti",
         "date": "1998-12-01",
-        "contributor": "Cioaca Maria"
+        "contributor": "Cioaca Maria",
+        "contributorDate": "2017-01-03"
     },
     {
         "id": 15,
@@ -190,7 +204,8 @@
         "material": "Bronz",
         "address": "Bulevardul Dinicu Golescu, la intersecția cu str. Mircea Vulcănescu , sector 1",
         "date": "1908",
-        "contributor": "Manole Madalina Simona"
+        "contributor": "Manole Madalina Simona",
+        "contributorDate": "2017-01-04"
     },
     {
         "id": 16,
@@ -203,7 +218,8 @@
         "material": "Bronz",
         "address": "Calea 13 Septembrie, Numarul 90",
         "date": "1901-09-13",
-        "contributor": "Avramescu Mihai"
+        "contributor": "Avramescu Mihai",
+        "contributorDate": "2017-01-04"
     },
     {
         "id": 17,
@@ -216,7 +232,8 @@
         "material": "Marmura",
         "address": "Grădina Cișmigiu",
         "date": "1922-10-25",
-        "contributor": "Adina Madalina Vida"
+        "contributor": "Adina Madalina Vida",
+        "contributorDate": "2017-01-05"
     },
     {
         "id": 18,
@@ -229,7 +246,8 @@
         "material": "Bronz",
         "address": "La intersecția străzilor I. L. Caragiale și Maria Rosetti, Sector 2",
         "date": "1957-01-01",
-        "contributor": "Iancu Anca"
+        "contributor": "Iancu Anca",
+        "contributorDate": "2017-01-05"
     },
     {
         "id": 19,
@@ -242,7 +260,8 @@
         "material": "Bronz",
         "address": "Str. Vasile Lascăr Nr. 33",
         "date": "1908-06-01",
-        "contributor": "Ionescu Daniel Mihai"
+        "contributor": "Ionescu Daniel Mihai",
+        "contributorDate": "2017-01-05"
     },
     {
         "id": 20,
@@ -255,7 +274,8 @@
         "material": "Bronz",
         "address": "Bd. Brătianu I. C. Nr. 49",
         "date": "1939-01-01",
-        "contributor": "Ionescu Daniel Mihai"
+        "contributor": "Ionescu Daniel Mihai",
+        "contributorDate": "2017-01-05"
     },
     {
         "id": 21,
@@ -268,7 +288,8 @@
         "material": "Piatră de Rusciuc",
         "address": "Piața Libertății, sector 4, în Parcul Carol I",
         "date": "1906-06-06",
-        "contributor": "Olteanu Florentina Marinela"
+        "contributor": "Olteanu Florentina Marinela",
+        "contributorDate": "2017-01-08"
     },
     {
         "id": 22,
@@ -281,7 +302,8 @@
         "material": "Bronz",
         "address": "Piața Libertății, sector 4, în Parcul Carol I",
         "date": "1928-11-04",
-        "contributor": "Olteanu Florentina Marinela"
+        "contributor": "Olteanu Florentina Marinela",
+        "contributorDate": "2017-01-08"
     },
     {
         "id": 23,
@@ -293,7 +315,8 @@
         "material": "Bronz",
         "address": "Calea Victoriei Nr. 88",
         "date": "2010-12-06",
-        "contributor": "Cosmin Bizon"
+        "contributor": "Cosmin Bizon",
+        "contributorDate": "2017-01-08"
     },
     {
         "id": 24,
@@ -305,7 +328,8 @@
         "material": "Marmura",
         "address": "Bd. Regina Elisabeta, colt cu Str. Academiei",
         "date": "1935-12-10",
-        "contributor": "Cosmin Bizon"
+        "contributor": "Cosmin Bizon",
+        "contributorDate": "2017-01-08"
     },
     {
         "id": 25,
@@ -318,7 +342,8 @@
         "material": "Bronz",
         "address": "La intersecția bulevardelor Iuliu Maniu și Geniului, sector 6, în apropiere de Palatul Cotroceni",
         "date": "1929-06-29",
-        "contributor": "Mihalache Alexandra-Georgiana"
+        "contributor": "Mihalache Alexandra-Georgiana",
+        "contributorDate": "2017-01-08"
     },
     {
         "id": 26,
@@ -330,7 +355,8 @@
         "material": "Bronz",
         "address": "Parcul Florilor",
         "date": "1971-10-23",
-        "contributor": "Niculae Mihai"
+        "contributor": "Niculae Mihai",
+        "contributorDate": "2017-01-09"
     },
     {
         "id": 27,
@@ -343,7 +369,8 @@
         "lmi": "B-III-m-B-20025",
         "address": "Str. Precupetii Vechi f.n. sector 2",
         "date": "1934-02-25",
-        "contributor": "Niculae Mihai"
+        "contributor": "Niculae Mihai",
+        "contributorDate": "2017-01-09"
     },
     {
         "id": 28,
@@ -355,7 +382,8 @@
         "material": "Bronz",
         "address": "Bulevardul Carol I, Parcul Colțea",
         "date": "2009",
-        "contributor": "Maroz Cristiana"
+        "contributor": "Maroz Cristiana",
+        "contributorDate": "2017-01-09"
     },
     {
         "id": 29,
@@ -368,7 +396,8 @@
         "material": "Piatră de Rusciuc",
         "address": "Piața Libertății, sector 4, în Parcul Carol I",
         "date": "1905",
-        "contributor": "Antohi Diana"
+        "contributor": "Antohi Diana",
+        "contributorDate": "2017-01-10"
     },
     {
         "id": 30,
@@ -381,7 +410,8 @@
         "material": "Bronz",
         "address": "Str. Franklin Benjamin 1-3 sector 1, în Grădina Ateneului",
         "date": "1965-01-01",
-        "contributor": "Vișan Andreea Nicoleta"
+        "contributor": "Vișan Andreea Nicoleta",
+        "contributorDate": "2017-01-10"
     },
     {
         "id": 31,
@@ -394,7 +424,8 @@
         "material": "Marmura",
         "address": "Parcul Cismigiu, Bulevardul Schitu Mãgureanu nr. 37, sector 1",
         "date": "1943-06-27",
-        "contributor": "Ene Gabriela"
+        "contributor": "Ene Gabriela",
+        "contributorDate": "2017-01-13"
     },
     {
         "id": 32,
@@ -407,7 +438,8 @@
         "material": "Bronz",
         "address": "Piața Gării de Nord, sector 1",
         "date": "1923",
-        "contributor": "Neață Alexandru"
+        "contributor": "Neață Alexandru",
+        "contributorDate": "2017-01-14"
     },
     {
         "id": 33,
@@ -420,7 +452,8 @@
         "material": "Bronz",
         "address": "Piața Gării de Nord, sector 1",
         "date": "1924",
-        "contributor": "Neață Alexandru"
+        "contributor": "Neață Alexandru",
+        "contributorDate": "2017-01-14"
     },
     {
         "id": 34,
@@ -432,7 +465,8 @@
         "material": "Piatra",
         "address": "Piata Cantacuzino Gh. sector 2, in Gradina Icoanei",
         "date": "1958-03-11",
-        "contributor": "Zamfir Andreea Alexandra"
+        "contributor": "Zamfir Andreea Alexandra",
+        "contributorDate": "2017-01-15"
     },
     {
         "id": 35,
@@ -445,7 +479,8 @@
         "material": "Bronz",
         "address": "Piața Gh. Cantacuzino",
         "date": "1904",
-        "contributor": "Bavaleta Georgiana"
+        "contributor": "Bavaleta Georgiana",
+        "contributorDate": "2017-01-15"
     },
     {
         "id": 36,
@@ -458,7 +493,8 @@
         "material": "Marmura",
         "address": "Piata Universitatii",
         "date": "1881-03-23",
-        "contributor": "Razvan Ganea"
+        "contributor": "Razvan Ganea",
+        "contributorDate": "2017-01-18"
     },
     {
         "id": 37,
@@ -471,7 +507,8 @@
         "material": "Bronz",
         "address": "Piata Universitatii",
         "date": "1874-06-14",
-        "contributor": "Razvan Ganea"
+        "contributor": "Razvan Ganea",
+        "contributorDate": "2017-01-18"
     },
     {
         "id": 38,
@@ -484,7 +521,8 @@
         "material": "Bronz",
         "address": "Piata Garii de Nord",
         "date": "1923-01-01",
-        "contributor": "Pirvu Flavia-Alice"
+        "contributor": "Pirvu Flavia-Alice",
+        "contributorDate": "2017-01-20"
     },
     {
         "id": 39,
@@ -495,7 +533,8 @@
         "material": "Bronz",
         "address": "In parcul din Piaţa Dorobanţi",
         "date": "",
-        "contributor": "Lupusoru Sabin"
+        "contributor": "Lupusoru Sabin",
+        "contributorDate": "2017-01-23"
     },
     {
         "id": 40,
@@ -506,7 +545,8 @@
         "material": "Bronz",
         "address": "Langa Televiziunea publica, pe Calea Dorobantilor",
         "date": "1996",
-        "contributor": "Lupusoru Sabin"
+        "contributor": "Lupusoru Sabin",
+        "contributorDate": "2017-01-23"
     },
     {
         "id": 41,
@@ -519,7 +559,8 @@
         "material": "bronz",
         "address": "Parcul Herastrau, intrarea dinspre Piata Charles de Gaulle",
         "date": "2006",
-        "contributor": "Grigore Raluca"
+        "contributor": "Grigore Raluca",
+        "contributorDate": "2017-01-24"
     },
     {
         "id": 42,
@@ -532,6 +573,7 @@
         "material": "bronz",
         "address": "Statuia lui Charles de Gaulle din Bucuresti este amplasata la intrarea în Parcul Herastrau dinspre Piata Charles de Gaulle",
         "date": "2006-09-26",
-        "contributor": "Ghindeanu Iulia"
+        "contributor": "Ghindeanu Iulia",
+        "contributorDate": "2017-01-24"
     }
 ]
