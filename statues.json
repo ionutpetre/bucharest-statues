@@ -507,5 +507,18 @@
         "address": "Langa Televiziunea publica, pe Calea Dorobantilor",
         "date": "1996",
         "contributor": "Lupusoru Sabin"
+    },
+    {
+        "id": 41,
+        "lmi": "B-II-a-A-18802",
+        "name": "Fantana Modura",
+        "artist": "Constantin Baraschi (original - 1939) / Ionel Stoicescu (reconstituire-2006)",
+        "details": "Statuia se prezinta sub forma unui bazin din piatra, placat cu ceramica, în centrul caruia se afla statuia din bronz a Modurei, o fata imbracata in costum popular, care poarta pe umar un ulcior",
+        "otherDetails": "Pentru a face loc statuii lui Stalin, care a strajuit intre 1951 si 1962 intrarea în Parcul National Regele Carol al II-lea, ansamblul Fantana Modura a fost demolat. Multi ani nu s-a mai stiut nimic despre statuile originale. In 2006 fantana a fost reconstituita pe baza fotografiilor de epoca si a unei cariatide originale gasite in cimitirul Bellu ",
+        "category": "Personaje",
+        "material": "bronz",
+        "address": "Parcul Herastrau, intrarea dinspre Piata Charles de Gaulle",
+        "date": "2006",
+        "contributor": "Grigore Raluca"
     }
 ]
