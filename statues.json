@@ -485,5 +485,27 @@
         "address": "Piata Garii de Nord",
         "date": "1923-01-01",
         "contributor": "Pirvu Flavia-Alice"
+    },
+    {
+        "id": 39,
+        "name": "Constantin Brancusi",
+        "artist": "Miliţa Petraşcu",
+        "details": "în parcul din Piaţa Dorobanţi, astăzi purtând numele artistului, în locul Lupei Capitoline a fost amplasat bustul lui Brâncuşi",
+        "category": "Sculptori",
+        "material": "Bronz",
+        "address": "In parcul din Piaţa Dorobanţi",
+        "date": "",
+        "contributor": "Lupusoru Sabin"
+    },
+    {
+        "id": 40,
+        "name": "Simon Bolivar",
+        "artist": "Mihai Buculei",
+        "details": "Statuia prezentata este opera sculptorului Mihai Buculei si a fost realizata in anul 1996.",
+        "category": "Conducatori",
+        "material": "Bronz",
+        "address": "Langa Televiziunea publica, pe Calea Dorobantilor",
+        "date": "1996",
+        "contributor": "Lupusoru Sabin"
     }
 ]
