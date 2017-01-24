@@ -520,5 +520,18 @@
         "address": "Parcul Herastrau, intrarea dinspre Piata Charles de Gaulle",
         "date": "2006",
         "contributor": "Grigore Raluca"
+    },
+    {
+        "id": 42,
+        "lmi": "B-II-a-A-18802",
+        "name": "Statuia lui Charles de Gaulle",
+        "artist": "Mircea Corneliu Spataru",
+        "details": "Statuia, realizata din bronz, cu o greutate de aproximativ sapte tone, care il reprezinta pe generalul Charles de Gaulle coborand niste trepte, spre piata care-i poarta numele",
+        "otherDetails": "Pe amplasamentul actual al statuii s-a aflat, intre 1951 si 1962, Statuia lui Stalin din Bucuresti",
+        "category": "Politicieni",
+        "material": "bronz",
+        "address": "Statuia lui Charles de Gaulle din Bucuresti este amplasata la intrarea în Parcul Herastrau dinspre Piata Charles de Gaulle",
+        "date": "2006-09-26",
+        "contributor": "Ghindeanu Iulia"
     }
 ]
