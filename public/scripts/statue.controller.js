@@ -39,7 +39,7 @@ angular.module('StatuesApp').controller('StatueController', ['$scope', 'statue',
     $scope.openImageModal = function (imageSrc) {
         var confirm = $mdDialog.confirm()
             .title($scope.statue.name + ' | ' + $scope.statue.category)
-            .htmlContent('<img src="' + imageSrc + '">').ok('Inchide');
+            .htmlContent('<img width="900" src="' + imageSrc + '">').ok('Inchide');
         $mdDialog.show(confirm).then(function () { });
     }
 
