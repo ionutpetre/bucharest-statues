@@ -614,5 +614,17 @@
         "date": "1914-01-06",
         "contributor": "Raluca Ene",
         "contributorDate": "2017-01-25"
+    },
+    {
+        "id": 46,
+        "name": "Monumentul Eroilor Sanitari",
+        "artist": "Raffaello Romanelli",
+        "details": " Monumentul Eroilor Sanitari a fost înălțat în anul 1932, în timpul mandatului primarului Bucureștiului Dem. I. Dobrescu și este închinat memoriei medicilor, sanitarilor, surorilor voluntare care au salvat vieți pe fronturile Primului Război Mondial.",
+        "category": "Medici",
+        "material": "Marmura",
+        "address": "Piata Operei, sector 5, Bucuresti",
+        "date": "1932-01-01",
+        "contributor": "Cristina Petruta Voicu",
+        "contributorDate": "2017-01-25"
     }
 ]
