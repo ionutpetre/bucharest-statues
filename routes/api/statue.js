@@ -27,6 +27,14 @@ router.get('/contributors', (req, res) => {
     });
 });
 
+router.get('/contributors/details', (req, res) => {
+    statueService.getAllStatueContributorsDetails().then(statueContributors => {
+        res.status(200).send(statueContributors);
+    }).catch(err => {
+        res.status(400).send(err);
+    });
+});
+
 router.get('/addresses', (req, res) => {
     statueService.getAllStatueAddresses().then(statueAddresses => {
         res.status(200).send(statueAddresses);

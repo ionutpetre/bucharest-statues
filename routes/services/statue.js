@@ -35,6 +35,20 @@ module.exports = {
             resolve(uniqueStatueContributors);
         });
     },
+    getAllStatueContributorsDetails: () => {
+        return new Promise((resolve, reject) => {
+            let statueContributors = _getAllStatues().map((statue) => {
+                return {
+                    "student": statue.contributor,
+                    "data": statue.contributorDate
+                };
+            });
+            let uniqueStatueContributors = statueContributors.filter((_statueContributor, _statueContributorIdx, _statueContributors) => {
+                return _statueContributors.indexOf(_statueContributor) === _statueContributorIdx;
+            });
+            resolve(uniqueStatueContributors);
+        });
+    },
     getAllStatueAddresses: () => {
         return new Promise((resolve, reject) => {
             let statueAddresses = _getAllStatues().map((statue) => {
