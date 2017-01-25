@@ -575,5 +575,44 @@
         "date": "2006-09-26",
         "contributor": "Ghindeanu Iulia",
         "contributorDate": "2017-01-24"
+    },
+    {
+        "id": 43,
+        "name": "Monumentul Elenei Pherechide",
+        "artist": "Oscar Späthe",
+        "details": "Monumentul Elenei Pherekyde a fost realizat din marmura si inaugurat in anul 1914. Monumentul avea bustul Elenei Pherekyde, o mare filantroapa, asezat pe un soclu inalt in forma de trunchi de piramida, pe care este sculptat in partea din fata, imaginea Elenei in picioare, ajutand o mama si un copil. Dupa 1989 bustul a disparut.",
+        "otherDetails": "",
+        "category": "Personaje",
+        "material": "Marmura",
+        "address": "Bd. Schitu Magureanu 37 sector 1 in Gradina Cismigiu",
+        "date": "1914-01-06",
+        "contributor": "Raluca Ene",
+        "contributorDate": "2017-01-25"
+    },
+    {
+        "id": 44,
+        "name": "Izvorul Sissi",
+        "artist": "Ion Dimitriu-Barlad",
+        "details": "Monumentul reprezintă o mamă, îndurerată de moartea fiicei sale, care toarnă apă dintr-un ulcior. În partea de jos a statuii este săpată inscripția: “ISVORUL SISS- ÎNCHINAT SCUMPEI MELE COPILE SISSI STEFANIDI” Statuia a fost ridicată la cererea familiei Stefanidi, după moartea fiicei lor, Sissi, la vârsta de 21 de ani. Locul pe care este amplasată statuia aparținuse familiei Stefanidi și a fost donat către primăria orașului pentru construirea Noii Grădini.",
+        "otherDetails": "",
+        "category": "Personaje",
+        "material": "Piatră de Bașchioi",
+        "address": "Bd. Schitu Magureanu 37 sector 1 in Gradina Cismigiu",
+        "date": "1927-01-06",
+        "contributor": "Raluca Ene",
+        "contributorDate": "2017-01-25"
+    },
+    {
+        "id": 45,
+        "name": "Monumentul Elenei Pherechide",
+        "artist": "Oscar Späthe",
+        "details": "Monumentul Elenei Pherekyde a fost realizat din marmura si inaugurat in anul 1914. Monumentul avea bustul Elenei Pherekyde, o mare filantroapa, asezat pe un soclu inalt in forma de trunchi de piramida, pe care este sculptat in partea din fata, imaginea Elenei in picioare, ajutand o mama si un copil. Dupa 1989 bustul a disparut.",
+        "otherDetails": "",
+        "category": "Personaje",
+        "material": "Marmura",
+        "address": "Bd. Schitu Magureanu 37 sector 1 in Gradina Cismigiu",
+        "date": "1914-01-06",
+        "contributor": "Raluca Ene",
+        "contributorDate": "2017-01-25"
     }
 ]
