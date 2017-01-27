@@ -694,5 +694,19 @@
         "date": "1900",
         "contributor": "Costin Voicu",
         "contributorDate": "2017-01-27"
+    },
+    {
+        "id": 52,
+        "lmi": "B-III-m-B-20062",
+        "name": "Statuia Alergatorii",
+        "artist": "Alfred Boucher",
+        "details": "Statuia prezinta trei atleti în ultimele clipe ale cursei, întinzând mâinile în fa?a spre a fi primii la trecerea liniei de sosire. Statuia are un puternic impact prin dinamismul atle?ilor, întregul grup parând a se arunca înainte.",
+        "otherDetails": "Originalul statuii, ca model de ghips, cu titlul „Les Coureurs” (alergatorii) a fost expus prima data la Salonul din 1866, din Paris, unde a atras aprecierile criticilor ?i publicului. Statuia a fost premiata cu medalia premiului 1, Statul francez cumparând de la sculptor o statuie turnata în bronz, la scara 1/1, pentru a o amplasa în Jardin du Luxembourg (Gradina Luxemburg), cu titlul „Au But!” (la linia de sosire). Din pacate, aceasta a fost distrusa în 1940, sub ocupa?ia nazista. Ulterior, compania Siot-Decauville a turnat în bronz trei copii reduse la scara. O copie redusa la scara, turnata în bronz se afla la Musée d’art moderne et contemporain din Strasbourg (Bas-Rhin), iar un model din ghips, realizat în 1875, se afla la Musée d'art d'archéologie et de sciences naturelles din Troyes (Aube). Alta copie se afla în Musée Paul Dubois – Alfred Boucher din Nogent-sur-Seine. O mul?ime de alte copii se gasesc în colec?ii particulare. ?i în Bucure?ti exista o copie a „Alergatorilor”, editata în marime redusa, amplasata în curtea hotelului Triumf de pe ?oseaua Kiseleff, o cladire monumentala ridicata în 1937 dupa planurile arhitectului Petre Antonescu.",
+        "category": "Atleti",
+        "material": "Bronz",
+        "address": "Calea Victoriei nr. 142-146, sector 1",
+        "date": "1913",
+        "contributor": "Busuioc Ana-Maria",
+        "contributorDate": "2017-01-27"
     }
 ]
