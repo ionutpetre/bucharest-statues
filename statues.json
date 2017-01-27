@@ -722,5 +722,18 @@
         "date": "1914-01-01",
         "contributor": "Zamfirescu Irina Maria",
         "contributorDate": "2017-01-27"
+    },
+    {
+        "id": 54,
+        "name": "Statui care citesc",
+        "artist": "Max Turner",
+        "details": "-",
+        "otherDetails": "-",
+        "category": "General",
+        "material": "Bronz",
+        "address": "Parcul Tineretului",
+        "date": "2010-01-01",
+        "contributor": "Anamaria Galan",
+        "contributorDate": "2017-01-27"
     }
 ]
