@@ -680,5 +680,19 @@
         "date": "1943-06-27",
         "contributor": "Stanciu Maria",
         "contributorDate": "2017-01-27"
+    },
+    {
+        "id": 51,
+        "lmi": "B-II-a-B-18328",
+        "name": "Statuia lui Lascar Catargiu",
+        "artist": "",
+        "details": "Lascar Catargiu sau Lascar Catargi a fost un om politic roman, prim ministru al Romaniei pentru patru mandate. Originalul, executie a sculptorului Antonin Mercie, fusese inaltat in Piata numita azi Romana in toamna 1907.",
+        "otherDetails": "Statuia a fost inlaturata de comunisti, impreuna cu multe altele, prin anii '50, si a fost depozitata in curtea Combinatului Fondului Plastic.Din vechea statuie s-a pierdut capul lui Catargiu si copilul, care au fost refacute din imaginile de epoca. Celelalte elemente ale ansamblului, mai putin soclul, sunt originale.",
+        "category": "Politicieni",
+        "material": "Bronz",
+        "address": "Bd. Lascar Catargiu (str. Viisoarei)",
+        "date": "1900",
+        "contributor": "Costin Voicu",
+        "contributorDate": "2017-01-27"
     }
 ]
