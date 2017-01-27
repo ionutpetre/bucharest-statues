@@ -708,5 +708,19 @@
         "date": "1913",
         "contributor": "Busuioc Ana-Maria",
         "contributorDate": "2017-01-27"
+    },
+    {
+        "id": 53,
+        "lmi": "B-III-m-B-20047",
+        "name": "Monumentul Elenei Pherechide",
+        "artist": "Oscar Späthe",
+        "details": "Monumentul Elenei Pherechide a fost realizat din marmura de sculptorul Oscar Spaethe, fiind inaugurat in anul 1914 in gradina Cismigiu.",
+        "otherDetails": "Monumentul avea bustul Elenei Pherechide, o mare filantroapa, asezat pe un soclu inalt in forma de trunchi de piramida, pe care este sculptat in partea din fata, imaginea Elenei in picioare, ajutand o mama si un copil. Dupa 1989 bustul a disparut.",
+        "category": "Filantrop",
+        "material": "Marmura",
+        "address": "Bulevardul Schitu Magureanu 37, Parc Cismigiu",
+        "date": "1914-01-01",
+        "contributor": "Zamfirescu Irina Maria",
+        "contributorDate": "2017-01-27"
     }
 ]
