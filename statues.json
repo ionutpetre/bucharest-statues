@@ -666,5 +666,19 @@
         "date": "1884-08-24",
         "contributor": "Niculae Mihai",
         "contributorDate": "2017-01-26"
+    },
+    {
+        "id": 50,
+        "lmi": "B-III-m-B-20034",
+        "name": "Bustul lui Ion Luca Caragiale",
+        "artist": "Oscar Späthe",
+        "details": "Bustul este situat in Rotonda scriitorilor (cunoscuta initial sub denumirea de Rondul Roman).Rondul roman este o platforma circulara creata dupa model englezesc. Ansamblul consta dintr-o alee circulara cu raza de aproximativ 30 de metri; în mijloc, se afla un rond de gazon al carui centru e marcat de un vas ornamental de lut ce seamana cu un chip antic. Sunt asezate în jurul cercului 12 busturi de marmura la distante egale, pe postamente identice, paralelipipedice, de 2,40 metri înaltime taiate în piatra de Muscel, reprezentând 12 scriitori si oameni de cultura români. Fiecare nume de scriitor e însotit de numele sculptorului, inscriptionat discret în lateralul busturilor.",
+        "otherDetails": "Toate busturile din rotonda au fost declarate monument istoric de for public si înscrise în Lista monumentelor istorice 2010. Bustul lui Ion Luca Caragiale apare însotit de codul LMI atribuit.",
+        "category": "Scriitori",
+        "material": "Marmurade Ruschita",
+        "address": "Bulevardul Schitu Magureanu Nr. 37",
+        "date": "1943-06-27",
+        "contributor": "Stanciu Maria",
+        "contributorDate": "2017-01-27"
     }
 ]
