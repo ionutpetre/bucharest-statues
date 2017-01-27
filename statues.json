@@ -639,5 +639,19 @@
         "date": "2010-01-01",
         "contributor": "Anamaria Galan",
         "contributorDate": "2017-01-25"
+    },
+    {
+        "id": 48,
+        "lmi": "B-IV-m-B-20076",
+        "name": "Monumentul eroilor din primul razboi mondial",
+        "artist": "",
+        "details": "Lucrarea este un grup statuar, cu inaltimea de aprox. 2m, din bronz, soclul din piatra. Pe partea frontala, pe una din placile de marmura sta marturie inscriptia:\"EROILOR PATRIA RECUNOSCATOARE\"",
+        "otherDetails": "Este dedicata eroilor cazuti in Primul Razboi Mondial",
+        "category": "Eveniment Istoric",
+        "material": "Piatra",
+        "address": "Strada Ricinului, nr 22, in spatele Parcului Plumbuita",
+        "date": "1941",
+        "contributor": "Costin Voicu",
+        "contributorDate": "2017-01-26"
     }
 ]
