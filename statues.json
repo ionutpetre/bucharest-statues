@@ -735,5 +735,18 @@
         "date": "2010-01-01",
         "contributor": "Anamaria Galan",
         "contributorDate": "2017-01-27"
+    },
+    {
+        "id": 55,
+        "name": "Statuia lui Heydar Aliyev",
+        "artist": "-",
+        "details": "Statuie în cinstea lui Heydar Aliyev, presedintele Republicii Azerbaijan, cel care a pus bazele structurii de stat contemporane",
+        "otherDetails": "-",
+        "category": "Oameni politici",
+        "material": "Bronz",
+        "address": "Parcul Tei",
+        "date": "-",
+        "contributor": "Vilcan Cosmin",
+        "contributorDate": "2017-01-26"
     }
 ]
